@@ -6,8 +6,7 @@ library(tidytext)
 
 
 
-setwd("C:/Users/fsdha/Desktop/RDA_Mapping_R_analysis/RDA_Mapping_R_Data/RDA_Mapping_R_Data_input")
-# set text as tibble
+setwd("D:/Documents/LDP/Productivity and Reproducibility/Git/RDA_FF_mapping/RDA_Mapping_R_Data/RDA_Mapping_R_Data_input")# set text as tibble
 groups <- read.csv("RDA_Groups_R_V1_20220930.csv", header = T) %>% select(-Charter, - URL)
 
 glimpse(groups)
@@ -35,7 +34,19 @@ book_tf_idf1 <- book_tf_idf %>%
   arrange(desc(tf_idf))
 
 
-book_tf_idf1 <- book_tf_idf1 %>% filter(tf_idf > 0.001) %>% select(-tf, -idf)
+to.delete.words <- book_tf_idf1 %>% filter(tf_idf < 0.001, n > 4) %>% select(-tf, -idf)
+view(to.delete.words)
+
+to.delete.words <- to.delete.words %>% select(Text) %>% unique()
+
+to.delete.words.string <- to.delete.words %>%
+  mutate(string.length = str_length(to.delete.words$Text)) %>% 
+  filter(string.length < 6) # select words with less than 6 letters
+view(to.delete.words.string )
+
+to.delete.words.string <- to.delete.words.string %>% filter(Text != "tools")
+
+
 
 book_tf_idf2 <- book_tf_idf1 %>% arrange(Group, tf_idf) %>%
   group_by(Group) %>% top_n(10)
