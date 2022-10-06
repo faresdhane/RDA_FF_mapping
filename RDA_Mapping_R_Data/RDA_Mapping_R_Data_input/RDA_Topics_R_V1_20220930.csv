@@ -1,0 +1,87 @@
+FF_TOPIC,Keyword1,Keyword2,Key,FF_CLUSTER_THEME,FF_SCOPE,FF_FOCUS
+Economics of Data,economics,economic,Economic,Data lifecycle,Economics,Costs
+Data Management Plans,rdm,dmp,RDM-DMP,Data lifecycle,Implementation,Collaboration
+Contributions and challenges across the data life cycle (beyond data managment),rdm,dmp,RDM-DMP,Data lifecycle,Policy alignment,Collaboration
+Cost of data curation to be covered by grant and guidance on what is reasonable/enough,curation,funders,Data curation,Data lifecycle,Policy alignment,Costs
+Funder's requirements with respect to 'sensitive' data (whether personnal information or strategic data),sensitive,funders,Sensitive data,Data lifecycle,Policy alignment,Requirements
+Data and Software Preservation Guidance / Sustainable Discipline Repositories,repository,repositories,Repositories,Data lifecycle,Policy alignment,Sustainability
+Data Privacy,sensitive,privacy,Data privay,Data lifecycle,Policy alignment,Sustainability
+FAIR Research Data,fair,fair,FAIR,FAIR,Implementation,Collaboration
+Scalable FAIR,fair,fair,FAIR,FAIR,Implementation,Costs
+aligning FAIR implementation profiles for research communities,fair,fair,FAIR,FAIR,Implementation,Disciplinary
+"Actual implementation of FAIR, with emphasis on I and R",fair,fair,FAIR,FAIR,Implementation,Incentives
+Approaches to supporting adoption of FAIR/Open Science Principles by researchers,fair,fair,FAIR,FAIR,Implementation,Incentives
+"The impact of data, make them fair",fair,fair,FAIR,FAIR,Policy alignment,impact
+introducing FAIR practices as early as possible in funding process,fair,fair,FAIR,FAIR,Policy alignment,Incentives
+role of funders to enforce FAIR data,fair,fair,FAIR,FAIR,Policy alignment,Incentives
+FAIR and IP,fair,fair,FAIR,FAIR,Policy alignment,Legal
+Research Data Management/ Open Data,rdm,fair,RDM-DMP,Open Data,Implementation,Sustainability
+data commons/ data trusts / governance,governance,commons,Data commons & Governance,Open Science / Open Research Commons,Governance,Collaboration
+Digital Object Management Plans,digital,digital,Digital objects,Open Science / Open Research Commons,Implementation,Collaboration
+FAIR data commons,fair,commons,FAIR,Open Science / Open Research Commons,Implementation,Collaboration
+National PID strategies,identifier,pid,PIDs,Open Science / Open Research Commons,Implementation,Collaboration
+Persistent Identifiers,identifier,pid,PIDs,Open Science / Open Research Commons,Implementation,Collaboration
+RDA work in developing countries,international,collaboration,International collaboration,Open Science / Open Research Commons,Implementation,Collaboration
+Providing and storage the Research Data from supported projects,rdm,repositories,RDM-DMP,Open Science / Open Research Commons,Implementation,impact
+Providing Research Data from Journals,journal,journals,Journals,Open Science / Open Research Commons,Implementation,impact
+Institutional Repositories,repository,repositories,Repositories,Open Science / Open Research Commons,Implementation,Sustainability
+International collaborations,international,na,International collaboration,Open Science / Open Research Commons,Policy alignment,Collaboration
+National digital research infrastructure strategy,infrastructure,digital,Digital objects,Open Science / Open Research Commons,Policy alignment,Collaboration
+National Nodes,national,na,National,Open Science / Open Research Commons,Policy alignment,Collaboration
+Openness and Reproducibility,open,reproducibility,Reproducibility,Open Science / Open Research Commons,Policy alignment,Collaboration
+Policies on management and sharing of data,rdm,policies,Policy,Open Science / Open Research Commons,Policy alignment,Collaboration
+Policy alignment / harmonisation,policy,funders,Policy,Open Science / Open Research Commons,Policy alignment,Collaboration
+discipline specificities in open research data policies,data,policies,Policy,Open Science / Open Research Commons,Policy alignment,Disciplinary
+Funder incentives to open research data management practices,rdm,funders,Funders,Open Science / Open Research Commons,Policy alignment,Incentives
+Open Science Policies,open,policies,Policy,Open Science / Open Research Commons,Policy alignment,Incentives
+Industrial Participation,industry,na,Industry,Open Science / Open Research Commons,Policy alignment,Industry
+"High-level international/inter-governmental (like G7 etc.) policy related to open science, FAIR data sharing and data infrastructure",policy,international,Policy,Open Science / Open Research Commons,Policy alignment,Sustainability
+Innovation policy making SDGs,policy,na,Policy,Open Science / Open Research Commons,Policy alignment,Sustainability
+Recognition of preprint peer review in research assessement and funding decision making,reward,rewards,Rewards,Research Assessment,Policy alignment,Incentives
+Research assessment,reward,rewards,Rewards,Research Assessment,Policy alignment,Incentives
+research assessment in the context of open science and rdm more specifically,reward,rewards,Rewards,Research Assessment,Policy alignment,Incentives
+Rewarding good research practice in data management and sharing,reward,rewards,Rewards,Research Assessment,Policy alignment,Incentives
+Data Skills,training,skills,Training and skills,Skills,Implementation,Collaboration
+educational means for all levels of carrer,training,skills,Training and skills,Skills,Policy alignment,Incentives
+Data Governance,governance,policy,Data commons & Governance,Data lifecycle,Governance,Sustainability
+"Sustainability models, including lifecycle and maturity models",sustainability,rdm,RDM-DMP,Data lifecycle,Implementation,Business models
+sustainability of research data infrastructure,sustainability,repositories,Repositories,Data lifecycle,Implementation,Business models
+Fostering a broader community of practitioners,practitioners,practitioner,Practitioners,Data lifecycle,Implementation,Collaboration
+data for philanthropy / what data funders might contribute,philanthropy,funders,Funders,Data lifecycle,Implementation,Costs
+Equity,equity,skills,Training and skills,Data lifecycle,Policy alignment,impact
+Data quality,quality,reproducibility,Reproducibility,Data lifecycle,Policy alignment,Incentives
+Environmental Sustainability of data,sustainability,Environmental,Sustainability,Data lifecycle,Policy alignment,Sustainability
+funder alignment on issues related to research data,funders,funding,Funders,Data lifecycle,Policy alignment,Sustainability
+Interoperable Data,Interoperability,metadata,Metadata,FAIR,Policy alignment,impact
+Approaches to AHSS data and OA,open,Access,Open Access,Open Access,Implementation,Collaboration
+Diamond Open Access,open,Access,Open Access,Open Access,Policy alignment,Incentives
+Open Access,open,Access,Open Access,Open Access,Policy alignment,Incentives
+open access mandates,open,Access,Open Access,Open Access,Policy alignment,Incentives
+Assessing compliance with open data policies,open,policy,Policy,Open Data,Compliance,Collaboration
+Sustainable business models for RDA,sustainability,governance,Sustainability,Open Science / Open Research Commons,Implementation,Business models
+Broader research infrastructure connections / clusters,repository,repositories,Repositories,Open Science / Open Research Commons,Implementation,Collaboration
+Integrating the preprint and open data infrastructures,access,repositories,Repositories,Open Science / Open Research Commons,Implementation,impact
+Joining forces for developing and maintaining a data integrity toolset,repositories,Access,Open science,Open Science / Open Research Commons,Implementation,impact
+Open science initiatives and impact of UNESCO's recommendations,open,science,Open science,Open Science / Open Research Commons,Implementation,impact
+Open Science Monitoring,open,Science,Open science,Open Science / Open Research Commons,Implementation,impact
+Data infrastructure/fabric,semantics,metadata,Metadata,Open Science / Open Research Commons,Implementation,Sustainability
+Data management capacity building for longitudinal population studies,rdm,social,RDM-DMP,Open Science / Open Research Commons,Implementation,Sustainability
+increasing diversity of funding avenues,funding,funders,Funders,Open Science / Open Research Commons,Implementation,Sustainability
+"Principles to Implementations, like TRUST principles to certifications",open,trust,TRUST,Open Science / Open Research Commons,Policy alignment,alignment
+Alignment with EOSC,eosc,commons,Data commons & Governance,Open Science / Open Research Commons,Policy alignment,Collaboration
+Joint funding of projects on open science,funding,open,Funders,Open Science / Open Research Commons,Policy alignment,Collaboration
+Links between Science Data and Government Data initiatives,data,government,Science data & government data,Open Science / Open Research Commons,Policy alignment,Collaboration
+Open Research,open,science,Open science,Open Science / Open Research Commons,Policy alignment,Collaboration
+Opportunities for collaborative funding at a global scale,funding,funders,Funders,Open Science / Open Research Commons,Policy alignment,Collaboration
+Opportunities for joint calls,funding,funders,Funders,Open Science / Open Research Commons,Policy alignment,Collaboration
+policy compatibility among funding agencies,funding,funders,Funders,Open Science / Open Research Commons,Policy alignment,Collaboration
+Transitions,sustainability,policy,Policy,Open Science / Open Research Commons,Policy alignment,Collaboration
+"Funding allocation for OS at a national level - who, how, priorities",funding,open,Funders,Open Science / Open Research Commons,Policy alignment,Costs
+"Trends in research funding (e.g. use of Monte Carlo decision tools, etc.)",funding,funders,Funders,Open Science / Open Research Commons,Policy alignment,impact
+Funding shared infrastructure,funding,repository,Repositories,Open Science / Open Research Commons,Policy alignment,Sustainability
+Sharing of agency practices to identify where joined up efforts can support the research community,collaboration,funding,Funders,Open Science / Open Research Commons,Policy alignment,Sustainability
+financial sustainability of RDA,funding,sustainability,Sustainability,RDA,Economics,Sustainability
+impact assessment of data sharing (towards evaluation),open,sharing,Data sharing,Research Assessment,Policy alignment,impact
+Incentive system,policy,open,Policy,Research Assessment,Policy alignment,impact
+Data sharing in evaluation,open,sharing,Data sharing,Research Assessment,Policy alignment,Incentives
+Data sharing incentives and policies,incentives,sharing,Data sharing,Research Assessment,Policy alignment,Incentives

@@ -1,0 +1,530 @@
+Match,FF_CLUSTER_THEME,FF_SCOPE,FF_FOCUS,FF_TOPIC,Group_name,Group_type,Topic,Catalogue_category,Sub_category,URL,Recommendation_s__output_s_,Co_chairs,Contact_email,Count
+Yes,FAIR,Implementation,Incentives,"Actual implementation of FAIR, with emphasis on I and R",CURE-FAIR WG,WG,FAIR data ,Data management,FAIR data ,https://www.rd-alliance.org/groups/cure-fair-wg,"10 Things for Curating Reproducible and FAIR Research
+
+Challenges of Curating for Reproducible and FAIR Research Output 
+https://www.rd-alliance.org/group/cure-fair-wg/outcomes/challenges-curating-reproducible-and-fair-research-output ","Limor Peer, Florio Arguillas, Thu-Mai Christian, Tom Honeyman, Mandy Gooch",,1
+Yes,FAIR,Implementation,Incentives,"Actual implementation of FAIR, with emphasis on I and R",FAIR Data Maturity Model WG,WG,FAIR data,"Data management, 
+Dissemination, Linking and Findability",FAIR data ,https://www.rd-alliance.org/groups/fair-data-maturity-model-wg,"FAIR Data Maturity Model: specification and guidelines
+https://www.rd-alliance.org/group/fair-data-maturity-model-wg/outcomes/fair-data-maturity-model-specification-and-guidelines-0
+
+Member survey on bridging the gap between funders and communities – perspectives on benefits and challenges of FAIR assessments V2.0
+https://www.rd-alliance.org/group/fair-data-maturity-model-wg/outcomes/member-survey-bridging-gap-between-funders-and 
+
+Results of an Analysis of Existing FAIR Assessment Tools
+https://www.rd-alliance.org/group/fair-data-maturity-model-wg/outcomes/results-analysis-existing-fair-assessment-tools ","Edit Herczog, Keith Russell, Shelley Stall",,1
+Yes,FAIR,Implementation,Incentives,"Actual implementation of FAIR, with emphasis on I and R",FAIR Digital Object Fabric IG,IG,FAIR data ,na,Data management planning,https://www.rd-alliance.org/group/FAIR-digital-object-fabric-ig.html,"Summary of Virtual Layer Recommendations
+https://www.rd-alliance.org/group/fair-digital-object-fabric-ig/outcomes/summary-virtual-layer-recommendations 
+
+Persistent identifiers: Consolidated assertions
+https://www.rd-alliance.org/group/fair-digital-object-fabric-ig/outcomes/persistent-identifiers-consolidated-assertions ","Xin Chen, Rainer Stotzka, Robert Quick, Maggie Hellström",rda-fair-do-fabric-ig@rda-groups.org,1
+Yes,FAIR,Implementation,Incentives,"Actual implementation of FAIR, with emphasis on I and R",FAIR for Research Software (FAIR4RS) WG,WG,FAIR software,"Data management
+Policy, Legal Compliance, and Capacity 
+Computational infrastructures",FAIR software ,https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg,"FAIR Principles for Research Software (FAIR4RS Principles)
+https://www.rd-alliance.org/group/fair-research-software-fair4rs-wg/outcomes/fair-principles-research-software-fair4rs-0 ","Michelle Barker, Paula Andrea Martinez, Leyla Garcia, Daniel S. Katz, Neil Chue Hong, Jennifer Harrow, Fotis Psomopoulos, Carlos Martinez-Ortiz, Morane Gruenpeter",,1
+Yes,FAIR,Implementation,Incentives,"Actual implementation of FAIR, with emphasis on I and R",FAIR for Virtual Research Environments WG,WG,"Technical infrastructure, analysis, storage and preservation ",na,na,https://www.rd-alliance.org/groups/fair-virtual-research-environments-wg,,"Kerry Levett, Sandra Gesing, Kheeran Dharmawardena, Leyla Garcia",,1
+Yes,FAIR,Implementation,Incentives,"Actual implementation of FAIR, with emphasis on I and R",FAIR Principles for Research Hardware,IG,Non-digital (samples and hardware),na,Open Hardware,https://www.rd-alliance.org/groups/fair-principles-research-hardware,,"Nadica Miljkovi?, Julien Colomb",fair4rh@rda-groups.org,1
+Yes,FAIR,Implementation,Incentives,"Actual implementation of FAIR, with emphasis on I and R",GO FAIR Liaison IG,IG,"Policy, legal, global infrastructure ",na,"Policy, legal, compliance, capacity",https://www.rd-alliance.org/groups/go-fair-liaison-ig,,"Luiz Olavo Bonino da Silva Santos, Erik Schultes",gofair@rda-groups.org,1
+Yes,FAIR,Implementation,Incentives,"Actual implementation of FAIR, with emphasis on I and R",Raising FAIRness in health data and health research performing organisations (HRPOs) WG,WG,Health research ,na,na,https://www.rd-alliance.org/groups/raising-fairness-health-data-and-health-research-performing-organisations-hrpos-wg,,"Shanmugasundaram Venkataraman, Celia Alvarez-Romero, Kristan Kang, Anupama Gururaj",,1
+Yes,FAIR,Implementation,Disciplinary,aligning FAIR implementation profiles for research communities,CURE-FAIR WG,WG,FAIR data ,Data management,FAIR data ,https://www.rd-alliance.org/groups/cure-fair-wg,"10 Things for Curating Reproducible and FAIR Research
+
+Challenges of Curating for Reproducible and FAIR Research Output 
+https://www.rd-alliance.org/group/cure-fair-wg/outcomes/challenges-curating-reproducible-and-fair-research-output ","Limor Peer, Florio Arguillas, Thu-Mai Christian, Tom Honeyman, Mandy Gooch",,1
+Yes,FAIR,Implementation,Disciplinary,aligning FAIR implementation profiles for research communities,FAIR Data Maturity Model WG,WG,FAIR data,"Data management, 
+Dissemination, Linking and Findability",FAIR data ,https://www.rd-alliance.org/groups/fair-data-maturity-model-wg,"FAIR Data Maturity Model: specification and guidelines
+https://www.rd-alliance.org/group/fair-data-maturity-model-wg/outcomes/fair-data-maturity-model-specification-and-guidelines-0
+
+Member survey on bridging the gap between funders and communities – perspectives on benefits and challenges of FAIR assessments V2.0
+https://www.rd-alliance.org/group/fair-data-maturity-model-wg/outcomes/member-survey-bridging-gap-between-funders-and 
+
+Results of an Analysis of Existing FAIR Assessment Tools
+https://www.rd-alliance.org/group/fair-data-maturity-model-wg/outcomes/results-analysis-existing-fair-assessment-tools ","Edit Herczog, Keith Russell, Shelley Stall",,1
+Yes,FAIR,Implementation,Disciplinary,aligning FAIR implementation profiles for research communities,FAIR Digital Object Fabric IG,IG,FAIR data ,na,Data management planning,https://www.rd-alliance.org/group/FAIR-digital-object-fabric-ig.html,"Summary of Virtual Layer Recommendations
+https://www.rd-alliance.org/group/fair-digital-object-fabric-ig/outcomes/summary-virtual-layer-recommendations 
+
+Persistent identifiers: Consolidated assertions
+https://www.rd-alliance.org/group/fair-digital-object-fabric-ig/outcomes/persistent-identifiers-consolidated-assertions ","Xin Chen, Rainer Stotzka, Robert Quick, Maggie Hellström",rda-fair-do-fabric-ig@rda-groups.org,1
+Yes,FAIR,Implementation,Disciplinary,aligning FAIR implementation profiles for research communities,FAIR for Research Software (FAIR4RS) WG,WG,FAIR software,"Data management
+Policy, Legal Compliance, and Capacity 
+Computational infrastructures",FAIR software ,https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg,"FAIR Principles for Research Software (FAIR4RS Principles)
+https://www.rd-alliance.org/group/fair-research-software-fair4rs-wg/outcomes/fair-principles-research-software-fair4rs-0 ","Michelle Barker, Paula Andrea Martinez, Leyla Garcia, Daniel S. Katz, Neil Chue Hong, Jennifer Harrow, Fotis Psomopoulos, Carlos Martinez-Ortiz, Morane Gruenpeter",,1
+Yes,FAIR,Implementation,Disciplinary,aligning FAIR implementation profiles for research communities,FAIR for Virtual Research Environments WG,WG,"Technical infrastructure, analysis, storage and preservation ",na,na,https://www.rd-alliance.org/groups/fair-virtual-research-environments-wg,,"Kerry Levett, Sandra Gesing, Kheeran Dharmawardena, Leyla Garcia",,1
+Yes,FAIR,Implementation,Disciplinary,aligning FAIR implementation profiles for research communities,FAIR Principles for Research Hardware,IG,Non-digital (samples and hardware),na,Open Hardware,https://www.rd-alliance.org/groups/fair-principles-research-hardware,,"Nadica Miljkovi?, Julien Colomb",fair4rh@rda-groups.org,1
+Yes,FAIR,Implementation,Disciplinary,aligning FAIR implementation profiles for research communities,GO FAIR Liaison IG,IG,"Policy, legal, global infrastructure ",na,"Policy, legal, compliance, capacity",https://www.rd-alliance.org/groups/go-fair-liaison-ig,,"Luiz Olavo Bonino da Silva Santos, Erik Schultes",gofair@rda-groups.org,1
+Yes,FAIR,Implementation,Disciplinary,aligning FAIR implementation profiles for research communities,Raising FAIRness in health data and health research performing organisations (HRPOs) WG,WG,Health research ,na,na,https://www.rd-alliance.org/groups/raising-fairness-health-data-and-health-research-performing-organisations-hrpos-wg,,"Shanmugasundaram Venkataraman, Celia Alvarez-Romero, Kristan Kang, Anupama Gururaj",,1
+Yes,Open Science / Open Research Commons,Policy alignment,Collaboration,Alignment with EOSC,Global Open Research Commons IG,IG,"Policy, legal, global infrastructure ",na,"Policy, legal, compliance, capacity",https://www.rd-alliance.org/groups/global-open-research-commons-ig,,"Andrew Treloar, Sarah Jones, Devika Madalli, Mark Leggott, Javier Lopez Albacete",gorc-ig@rda-groups.org,1
+Yes,Open Science / Open Research Commons,Policy alignment,Collaboration,Alignment with EOSC,GORC International Model WG,WG,"Policy, legal, global infrastructure ",na,na,https://www.rd-alliance.org/groups/gorc-international-model-wg,,"Karen Payne, Mark Leggott, Andrew Treloar",,1
+Yes,FAIR,Implementation,Incentives,Approaches to supporting adoption of FAIR/Open Science Principles by researchers,CURE-FAIR WG,WG,FAIR data ,Data management,FAIR data ,https://www.rd-alliance.org/groups/cure-fair-wg,"10 Things for Curating Reproducible and FAIR Research
+
+Challenges of Curating for Reproducible and FAIR Research Output 
+https://www.rd-alliance.org/group/cure-fair-wg/outcomes/challenges-curating-reproducible-and-fair-research-output ","Limor Peer, Florio Arguillas, Thu-Mai Christian, Tom Honeyman, Mandy Gooch",,1
+Yes,FAIR,Implementation,Incentives,Approaches to supporting adoption of FAIR/Open Science Principles by researchers,FAIR Data Maturity Model WG,WG,FAIR data,"Data management, 
+Dissemination, Linking and Findability",FAIR data ,https://www.rd-alliance.org/groups/fair-data-maturity-model-wg,"FAIR Data Maturity Model: specification and guidelines
+https://www.rd-alliance.org/group/fair-data-maturity-model-wg/outcomes/fair-data-maturity-model-specification-and-guidelines-0
+
+Member survey on bridging the gap between funders and communities – perspectives on benefits and challenges of FAIR assessments V2.0
+https://www.rd-alliance.org/group/fair-data-maturity-model-wg/outcomes/member-survey-bridging-gap-between-funders-and 
+
+Results of an Analysis of Existing FAIR Assessment Tools
+https://www.rd-alliance.org/group/fair-data-maturity-model-wg/outcomes/results-analysis-existing-fair-assessment-tools ","Edit Herczog, Keith Russell, Shelley Stall",,1
+Yes,FAIR,Implementation,Incentives,Approaches to supporting adoption of FAIR/Open Science Principles by researchers,FAIR Digital Object Fabric IG,IG,FAIR data ,na,Data management planning,https://www.rd-alliance.org/group/FAIR-digital-object-fabric-ig.html,"Summary of Virtual Layer Recommendations
+https://www.rd-alliance.org/group/fair-digital-object-fabric-ig/outcomes/summary-virtual-layer-recommendations 
+
+Persistent identifiers: Consolidated assertions
+https://www.rd-alliance.org/group/fair-digital-object-fabric-ig/outcomes/persistent-identifiers-consolidated-assertions ","Xin Chen, Rainer Stotzka, Robert Quick, Maggie Hellström",rda-fair-do-fabric-ig@rda-groups.org,1
+Yes,FAIR,Implementation,Incentives,Approaches to supporting adoption of FAIR/Open Science Principles by researchers,FAIR for Research Software (FAIR4RS) WG,WG,FAIR software,"Data management
+Policy, Legal Compliance, and Capacity 
+Computational infrastructures",FAIR software ,https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg,"FAIR Principles for Research Software (FAIR4RS Principles)
+https://www.rd-alliance.org/group/fair-research-software-fair4rs-wg/outcomes/fair-principles-research-software-fair4rs-0 ","Michelle Barker, Paula Andrea Martinez, Leyla Garcia, Daniel S. Katz, Neil Chue Hong, Jennifer Harrow, Fotis Psomopoulos, Carlos Martinez-Ortiz, Morane Gruenpeter",,1
+Yes,FAIR,Implementation,Incentives,Approaches to supporting adoption of FAIR/Open Science Principles by researchers,FAIR for Virtual Research Environments WG,WG,"Technical infrastructure, analysis, storage and preservation ",na,na,https://www.rd-alliance.org/groups/fair-virtual-research-environments-wg,,"Kerry Levett, Sandra Gesing, Kheeran Dharmawardena, Leyla Garcia",,1
+Yes,FAIR,Implementation,Incentives,Approaches to supporting adoption of FAIR/Open Science Principles by researchers,FAIR Principles for Research Hardware,IG,Non-digital (samples and hardware),na,Open Hardware,https://www.rd-alliance.org/groups/fair-principles-research-hardware,,"Nadica Miljkovi?, Julien Colomb",fair4rh@rda-groups.org,1
+Yes,FAIR,Implementation,Incentives,Approaches to supporting adoption of FAIR/Open Science Principles by researchers,GO FAIR Liaison IG,IG,"Policy, legal, global infrastructure ",na,"Policy, legal, compliance, capacity",https://www.rd-alliance.org/groups/go-fair-liaison-ig,,"Luiz Olavo Bonino da Silva Santos, Erik Schultes",gofair@rda-groups.org,1
+Yes,FAIR,Implementation,Incentives,Approaches to supporting adoption of FAIR/Open Science Principles by researchers,Raising FAIRness in health data and health research performing organisations (HRPOs) WG,WG,Health research ,na,na,https://www.rd-alliance.org/groups/raising-fairness-health-data-and-health-research-performing-organisations-hrpos-wg,,"Shanmugasundaram Venkataraman, Celia Alvarez-Romero, Kristan Kang, Anupama Gururaj",,1
+Yes,Open Data,Compliance,Collaboration,Assessing compliance with open data policies,Data policy standardisation and implementation IG,IG,"Policy, legal, global infrastructure ","Policy, legal, compliance, capacity","Policy, legal, compliance, capacity",https://www.rd-alliance.org/groups/data-policy-standardisation-and-implementation-ig,,"Iain Hrynaszkiewicz, Natasha Simons, Simon Goudie, Azhar Hussain, Rebecca Grant",rda-data-policy-standardisation-ig@rda-groups.org,1
+Yes,Open Science / Open Research Commons,Implementation,Collaboration,Broader research infrastructure connections / clusters,Data Repository Attributes WG,WG,"Technical infrastructure, analysis, storage and preservation ",na,na,https://www.rd-alliance.org/groups/data-repository-attributes-wg,,"Michael Witt, Kathleen Shearer, Allyson Lister, Matthew Cannon, Washington Luís Ribeiro de Segundo, Kazu Yamaji",,1
+Yes,Open Science / Open Research Commons,Implementation,Collaboration,Broader research infrastructure connections / clusters,Domain Repositories IG,IG,"Technical infrastructure, analysis, storage and preservation ",Computational infrastructures,Data storage and preservation ,https://www.rd-alliance.org/groups/domain-repositories-ig.html,,"Kerstin Lehnert, Peter Doorn",domain-repositories-ig@rda-groups.org,1
+Yes,Open Science / Open Research Commons,Implementation,Collaboration,Broader research infrastructure connections / clusters,Repository Platforms for Research Data IG,IG,"Technical infrastructure, analysis, storage and preservation ","Data management, Data collection, Data description, 
+Identification, storage and preservation,
+Dissemination, Linking and Findability
+Policy, Legal Compliance, and Capacity
+Computational infrastructures",Data storage and preservation,https://www.rd-alliance.org/groups/repository-platforms-research-data.html,"Matrix of use cases and functional requirements for research data repository platforms
+https://www.rd-alliance.org/group/repository-platforms-research-data-ig/outcomes/matrix-use-cases-and-functional-requirements ","Robert Downs, LILi Zhang, Devan Ray Donaldson",rda-repoplatforms-ig@rda-groups.org,1
+Yes,Data lifecycle,Policy alignment,Collaboration,Contributions and challenges across the data life cycle (beyond data managment),Libraries for Research Data IG,IG,RDM support and education ,Data management ,RDM support ,https://www.rd-alliance.org/groups/libraries-research-data.html,"23 Things: Libraries for Research Data (Supporting Output)
+https://www.rd-alliance.org/group/libraries-research-data-ig/outcomes/23-things-libraries-research-data-supporting-output 
+
+Engaging Researchers with Data Management: The Cookbook
+https://www.rd-alliance.org/group/libraries-research-data-ig/outcomes/engaging-researchers-data-management-cookbook 
+
+Top 10 FAIR Data & Software Things
+https://www.rd-alliance.org/group/libraries-research-data-ig/outcomes/top-10-fair-data-software-things","Birgit Schmidt, Andrea Ogier, Christopher Erdmann, Naresh Kumar, Su Nee Goh, Stanislaus Agava",rda-libresearchdata@rda-groups.org,1
+Yes,Data lifecycle,Policy alignment,Collaboration,Contributions and challenges across the data life cycle (beyond data managment),Research Data Management in Engineering IG,IG,Disciplinary: Materials science and engineering,na,Discipline-specific ,https://www.rd-alliance.org/groups/research-data-management-engineering-ig,,"Daniela Hausen, Gretchen Greene, Kevin Logan",rdmeng@rda-groups.org,1
+Yes,Data lifecycle,Policy alignment,Costs,Cost of data curation to be covered by grant and guidance on what is reasonable/enough,Reproducible Health Data Services WG,WG,Health research ,na,Discipline-specific ,https://www.rd-alliance.org/groups/reproducible-health-data-services-wg,,Oya Beyan,,1
+Yes,Data lifecycle,Policy alignment,Sustainability,Data and Software Preservation Guidance / Sustainable Discipline Repositories,Data Repository Attributes WG,WG,"Technical infrastructure, analysis, storage and preservation ",na,na,https://www.rd-alliance.org/groups/data-repository-attributes-wg,,"Michael Witt, Kathleen Shearer, Allyson Lister, Matthew Cannon, Washington Luís Ribeiro de Segundo, Kazu Yamaji",,1
+Yes,Data lifecycle,Policy alignment,Sustainability,Data and Software Preservation Guidance / Sustainable Discipline Repositories,Domain Repositories IG,IG,"Technical infrastructure, analysis, storage and preservation ",Computational infrastructures,Data storage and preservation ,https://www.rd-alliance.org/groups/domain-repositories-ig.html,,"Kerstin Lehnert, Peter Doorn",domain-repositories-ig@rda-groups.org,1
+Yes,Data lifecycle,Policy alignment,Sustainability,Data and Software Preservation Guidance / Sustainable Discipline Repositories,Repository Platforms for Research Data IG,IG,"Technical infrastructure, analysis, storage and preservation ","Data management, Data collection, Data description, 
+Identification, storage and preservation,
+Dissemination, Linking and Findability
+Policy, Legal Compliance, and Capacity
+Computational infrastructures",Data storage and preservation,https://www.rd-alliance.org/groups/repository-platforms-research-data.html,"Matrix of use cases and functional requirements for research data repository platforms
+https://www.rd-alliance.org/group/repository-platforms-research-data-ig/outcomes/matrix-use-cases-and-functional-requirements ","Robert Downs, LILi Zhang, Devan Ray Donaldson",rda-repoplatforms-ig@rda-groups.org,1
+Yes,Open Science / Open Research Commons,Governance,Collaboration,data commons/ data trusts / governance,Global Open Research Commons IG,IG,"Policy, legal, global infrastructure ",na,"Policy, legal, compliance, capacity",https://www.rd-alliance.org/groups/global-open-research-commons-ig,,"Andrew Treloar, Sarah Jones, Devika Madalli, Mark Leggott, Javier Lopez Albacete",gorc-ig@rda-groups.org,1
+Yes,Open Science / Open Research Commons,Governance,Collaboration,data commons/ data trusts / governance,GORC International Model WG,WG,"Policy, legal, global infrastructure ",na,na,https://www.rd-alliance.org/groups/gorc-international-model-wg,,"Karen Payne, Mark Leggott, Andrew Treloar",,1
+Yes,Data lifecycle,Governance,Sustainability,Data Governance,Data policy standardisation and implementation IG,IG,"Policy, legal, global infrastructure ","Policy, legal, compliance, capacity","Policy, legal, compliance, capacity",https://www.rd-alliance.org/groups/data-policy-standardisation-and-implementation-ig,,"Iain Hrynaszkiewicz, Natasha Simons, Simon Goudie, Azhar Hussain, Rebecca Grant",rda-data-policy-standardisation-ig@rda-groups.org,1
+Yes,Open Science / Open Research Commons,Implementation,Sustainability,Data infrastructure/fabric,Agrisemantics WG,WG,Disciplinary: Agricultural research ,"Identification, storage and preservation ",Discipline-specific ,https://www.rd-alliance.org/groups/agrisemantics-wg.html,"39 Hints to Facilitate the Use of Semantics for Data on Agriculture and Nutrition
+https://www.rd-alliance.org/group/agrisemantics-wg/outcomes/39-hints-facilitate-use-semantics-data-agriculture-and-nutrition ","brandon whitehead, Caterina Caracciolo, Sophie Aubin",,1
+Yes,Open Science / Open Research Commons,Implementation,Sustainability,Data infrastructure/fabric,Metadata IG,IG,Identification and description: Metadata,"Data management, Data collection, Data description,
+Identification, storage and preservation,
+Dissemination, Linking and Findability
+Policy, Legal Compliance, and Capacity
+","Data discoverability and accessibility
+Computational infrastructures",https://www.rd-alliance.org/groups/metadata-ig.html,"Metadata Principles
+https://www.rd-alliance.org/group/metadata-ig/outcomes/metadata-principles ","Keith Jeffery, Rebecca Koskela, Alex Ball",rda-metadata-ig@rda-groups.org,1
+Yes,Open Science / Open Research Commons,Implementation,Sustainability,Data infrastructure/fabric,Metadata Standards Catalog WG,WG,Identification and description: Metadata,"Data management, Data description",Data discoverability and accessibility,https://www.rd-alliance.org/groups/metadata-standards-catalog-working-group.html,,"Rebecca Koskela, Keith Jeffery, Alex Ball",,1
+Yes,Open Science / Open Research Commons,Implementation,Sustainability,Data management capacity building for longitudinal population studies,Libraries for Research Data IG,IG,RDM support and education ,Data management ,RDM support ,https://www.rd-alliance.org/groups/libraries-research-data.html,"23 Things: Libraries for Research Data (Supporting Output)
+https://www.rd-alliance.org/group/libraries-research-data-ig/outcomes/23-things-libraries-research-data-supporting-output 
+
+Engaging Researchers with Data Management: The Cookbook
+https://www.rd-alliance.org/group/libraries-research-data-ig/outcomes/engaging-researchers-data-management-cookbook 
+
+Top 10 FAIR Data & Software Things
+https://www.rd-alliance.org/group/libraries-research-data-ig/outcomes/top-10-fair-data-software-things","Birgit Schmidt, Andrea Ogier, Christopher Erdmann, Naresh Kumar, Su Nee Goh, Stanislaus Agava",rda-libresearchdata@rda-groups.org,1
+Yes,Open Science / Open Research Commons,Implementation,Sustainability,Data management capacity building for longitudinal population studies,Research Data Management in Engineering IG,IG,Disciplinary: Materials science and engineering,na,Discipline-specific ,https://www.rd-alliance.org/groups/research-data-management-engineering-ig,,"Daniela Hausen, Gretchen Greene, Kevin Logan",rdmeng@rda-groups.org,1
+Yes,Open Science / Open Research Commons,Implementation,Sustainability,Data management capacity building for longitudinal population studies,Social Science Research Data IG,IG,Disciplinary: Social science,na,Discipline-specific,https://www.rd-alliance.org/groups/social-science-research-data-ig,,"Ron Dekker, Jonathan Crabtree, Steven McEachern",sshrd@rda-groups.org,1
+Yes,Data lifecycle,Implementation,Collaboration,Data Management Plans,Active Data Management Plans IG,IG,Data management planning ,Data management ,Data management planning ,https://www.rd-alliance.org/groups/active-data-management-plans.html,,"David Giaretta, Kevin Ashley, Sarah Jones, Tomasz Miksa, John Chodacki",rda-datamanagplans@rda-groups.org,1
+Yes,Data lifecycle,Implementation,Collaboration,Data Management Plans,Discipline-specific Guidance for Data Management Plans WG,WG,Data management planning ,Data management,,https://www.rd-alliance.org/groups/discipline-specific-guidance-data-management-plans-wg,,"Daniela Hausen, Briana Wham, Jessica Hrudey, Holly Murray, Shannon Sheridan, Ivonne Anders, Yasemin Turkyilmaz-van der Velden, Santosh Ilamparuthi",,1
+Yes,Data lifecycle,Implementation,Collaboration,Data Management Plans,Exposing Data Management Plans WG,WG,Data management planning ,Data management ,Data management planning ,https://www.rd-alliance.org/groups/exposing-data-management-plans-wg,,"Angus Whyte, Fiona Murphy, Natalie Meyers, Kathryn Unsworth, Marie-Christine Jacquemot-Perbal",,1
+Yes,Data lifecycle,Implementation,Collaboration,Data Management Plans,Libraries for Research Data IG,IG,RDM support and education ,Data management ,RDM support ,https://www.rd-alliance.org/groups/libraries-research-data.html,"23 Things: Libraries for Research Data (Supporting Output)
+https://www.rd-alliance.org/group/libraries-research-data-ig/outcomes/23-things-libraries-research-data-supporting-output 
+
+Engaging Researchers with Data Management: The Cookbook
+https://www.rd-alliance.org/group/libraries-research-data-ig/outcomes/engaging-researchers-data-management-cookbook 
+
+Top 10 FAIR Data & Software Things
+https://www.rd-alliance.org/group/libraries-research-data-ig/outcomes/top-10-fair-data-software-things","Birgit Schmidt, Andrea Ogier, Christopher Erdmann, Naresh Kumar, Su Nee Goh, Stanislaus Agava",rda-libresearchdata@rda-groups.org,1
+Yes,Data lifecycle,Implementation,Collaboration,Data Management Plans,Research Data Management in Engineering IG,IG,Disciplinary: Materials science and engineering,na,Discipline-specific ,https://www.rd-alliance.org/groups/research-data-management-engineering-ig,,"Daniela Hausen, Gretchen Greene, Kevin Logan",rdmeng@rda-groups.org,1
+Yes,Data lifecycle,Policy alignment,Sustainability,Data Privacy,RDA Privacy Implications of Research Data Sets IG,IG,Information security ,Information security ,"Policy, legal, compliance, capacity",https://www.rd-alliance.org/groups/rdaniso-privacy-implications-research-data-sets-wg.html,,"Joerg Geiger, Freyja Vandenboom",rdaniso-privacy@rda-groups.org,1
+Yes,Data lifecycle,Policy alignment,Incentives,Data quality,CURE-FAIR WG,WG,FAIR data ,Data management,FAIR data ,https://www.rd-alliance.org/groups/cure-fair-wg,"10 Things for Curating Reproducible and FAIR Research
+
+Challenges of Curating for Reproducible and FAIR Research Output 
+https://www.rd-alliance.org/group/cure-fair-wg/outcomes/challenges-curating-reproducible-and-fair-research-output ","Limor Peer, Florio Arguillas, Thu-Mai Christian, Tom Honeyman, Mandy Gooch",,1
+Yes,Data lifecycle,Policy alignment,Incentives,Data quality,Software Source Code IG,IG,FAIR software ,Computational infrastructures,FAIR software ,https://www.rd-alliance.org/groups/software-source-code-ig,,"Morane Gruenpeter, Neil Chue Hong, Julia Collins",software-source-code-ig@rda-groups.org,1
+Yes,Research Assessment,Policy alignment,Incentives,Data sharing in evaluation,Sharing Rewards and Credit (SHARC) IG,IG,"Impact, metrics and credit","Data management, open and responsible research",RDM support ,https://www.rd-alliance.org/groups/sharing-rewards-and-credit-sharc-ig,,"Anne Cambon-Thomsen, Laurence Mabile, Anne-Marie Tassé, Romain DAVID, Christopher Erdmann, Hanna Shmagun",sharc-ig@rda-groups.org,1
+Yes,Research Assessment,Policy alignment,Incentives,Data sharing incentives and policies,Sharing Rewards and Credit (SHARC) IG,IG,"Impact, metrics and credit","Data management, open and responsible research",RDM support ,https://www.rd-alliance.org/groups/sharing-rewards-and-credit-sharc-ig,,"Anne Cambon-Thomsen, Laurence Mabile, Anne-Marie Tassé, Romain DAVID, Christopher Erdmann, Hanna Shmagun",sharc-ig@rda-groups.org,1
+Yes,Skills,Implementation,Collaboration,Data Skills,CODATA/RDA Research Data Science Schools for Low and Middle Income Countries,IG,RDM support and education ,na,RDM support ,https://www.rd-alliance.org/groups/codatarda-research-data-science-schools-low-and-middle-income-countries,,"Hugh Shanahan, Bianca Peterson, Raphael Cóbe, Sara El jadid",rda-codata-schools@rda-groups.org,1
+Yes,Skills,Implementation,Collaboration,Data Skills,Education and Training on Handling of Research Data IG,IG,RDM support and education ,Data management ,"RDM support, open education ",https://www.rd-alliance.org/groups/education-and-training-handling-research-data.html,"Core Characteristics of Learning Resource Collectors
+https://www.rd-alliance.org/group/education-and-training-handling-research-data-ig/outcomes/core-characteristics-learning 
+
+Recommendations for a minimal metadata set to aid harmonised discovery of learning resources
+https://www.rd-alliance.org/group/education-and-training-handling-research-data-ig/outcomes/recommendations-minimal-metadata-set ","Laura Molloy, Katarzyna Biernacka, Amy Nurnberger",rda-edu-ig@rda-groups.org,1
+Yes,Skills,Implementation,Collaboration,Data Skills,RDA/CODATA Summer Schools in Data Science and Cloud Computing in the Developing World WG,WG,RDM support and education ,"Dissemination, Linking and Findability, 
+Policy, Legal Compliance, and Capacity ",RDM support ,https://www.rd-alliance.org/groups/rdacodata-summer-schools-data-science-and-cloud-computing-developing-world.html,"CODATA/RDA Summer School in Data Science and Cloud Computing in the Developing World WG Recommendations
+https://www.rd-alliance.org/group/rdacodata-summer-schools-data-science-and-cloud-computing-developing-world-wg/outcomes 
+
+A curriculum for foundational Research Data Science skills for Early Career Researchers
+https://www.rd-alliance.org/group/rdacodata-summer-schools-data-science-and-cloud-computing-developing-world-wg/outcomes-0 ","Andrew Harrison, Simon Hodson, Robert Quick, Hugh Shanahan",,1
+Yes,Skills,Implementation,Collaboration,Data Skills,Skills and training curriculums to support FAIR research software IG,IG,"FAIR software, RDM support and education",na,RDM support,https://www.rd-alliance.org/groups/skills-and-training-curriculums-support-fair-research-software-ig,,"Michelle Barker, Hugh Shanahan",fair4rskills@rda-groups.org,1
+Yes,Open Science / Open Research Commons,Implementation,Collaboration,Digital Object Management Plans,FAIR Digital Object Fabric IG,IG,FAIR data ,na,Data management planning,https://www.rd-alliance.org/group/FAIR-digital-object-fabric-ig.html,"Summary of Virtual Layer Recommendations
+https://www.rd-alliance.org/group/fair-digital-object-fabric-ig/outcomes/summary-virtual-layer-recommendations 
+
+Persistent identifiers: Consolidated assertions
+https://www.rd-alliance.org/group/fair-digital-object-fabric-ig/outcomes/persistent-identifiers-consolidated-assertions ","Xin Chen, Rainer Stotzka, Robert Quick, Maggie Hellström",rda-fair-do-fabric-ig@rda-groups.org,1
+Yes,Open Science / Open Research Commons,Policy alignment,Disciplinary,discipline specificities in open research data policies,Data policy standardisation and implementation IG,IG,"Policy, legal, global infrastructure ","Policy, legal, compliance, capacity","Policy, legal, compliance, capacity",https://www.rd-alliance.org/groups/data-policy-standardisation-and-implementation-ig,,"Iain Hrynaszkiewicz, Natasha Simons, Simon Goudie, Azhar Hussain, Rebecca Grant",rda-data-policy-standardisation-ig@rda-groups.org,1
+Yes,Data lifecycle,Economics,Costs,Economics of Data,Data Economics IG,IG,na,na,"Policy, legal, compliance, capacity",https://www.rd-alliance.org/groups/data-economics-ig,,"Yuri Demchenko, Jane Greenberg",data-economics-ig@rda-groups.org,1
+Yes,Data lifecycle,Economics,Costs,Economics of Data,Social Dynamics of Data Interoperability IG,IG,"Policy, legal, global infrastructure ",na,Data discoverability and accessibility,https://www.rd-alliance.org/groups/social-dynamics-data-interoperability-ig,,"Kheeran Dharmawardena, Kristal Spreadborough",rda-social-dynamics-data-interoperability@rda-groups.org,1
+Yes,Skills,Policy alignment,Incentives,educational means for all levels of carrer,CODATA/RDA Research Data Science Schools for Low and Middle Income Countries,IG,RDM support and education ,na,RDM support ,https://www.rd-alliance.org/groups/codatarda-research-data-science-schools-low-and-middle-income-countries,,"Hugh Shanahan, Bianca Peterson, Raphael Cóbe, Sara El jadid",rda-codata-schools@rda-groups.org,1
+Yes,Skills,Policy alignment,Incentives,educational means for all levels of carrer,Education and Training on Handling of Research Data IG,IG,RDM support and education ,Data management ,"RDM support, open education ",https://www.rd-alliance.org/groups/education-and-training-handling-research-data.html,"Core Characteristics of Learning Resource Collectors
+https://www.rd-alliance.org/group/education-and-training-handling-research-data-ig/outcomes/core-characteristics-learning 
+
+Recommendations for a minimal metadata set to aid harmonised discovery of learning resources
+https://www.rd-alliance.org/group/education-and-training-handling-research-data-ig/outcomes/recommendations-minimal-metadata-set ","Laura Molloy, Katarzyna Biernacka, Amy Nurnberger",rda-edu-ig@rda-groups.org,1
+Yes,Skills,Policy alignment,Incentives,educational means for all levels of carrer,RDA/CODATA Summer Schools in Data Science and Cloud Computing in the Developing World WG,WG,RDM support and education ,"Dissemination, Linking and Findability, 
+Policy, Legal Compliance, and Capacity ",RDM support ,https://www.rd-alliance.org/groups/rdacodata-summer-schools-data-science-and-cloud-computing-developing-world.html,"CODATA/RDA Summer School in Data Science and Cloud Computing in the Developing World WG Recommendations
+https://www.rd-alliance.org/group/rdacodata-summer-schools-data-science-and-cloud-computing-developing-world-wg/outcomes 
+
+A curriculum for foundational Research Data Science skills for Early Career Researchers
+https://www.rd-alliance.org/group/rdacodata-summer-schools-data-science-and-cloud-computing-developing-world-wg/outcomes-0 ","Andrew Harrison, Simon Hodson, Robert Quick, Hugh Shanahan",,1
+Yes,Skills,Policy alignment,Incentives,educational means for all levels of carrer,Skills and training curriculums to support FAIR research software IG,IG,"FAIR software, RDM support and education",na,RDM support,https://www.rd-alliance.org/groups/skills-and-training-curriculums-support-fair-research-software-ig,,"Michelle Barker, Hugh Shanahan",fair4rskills@rda-groups.org,1
+Yes,Data lifecycle,Policy alignment,impact,Equity,CODATA/RDA Research Data Science Schools for Low and Middle Income Countries,IG,RDM support and education ,na,RDM support ,https://www.rd-alliance.org/groups/codatarda-research-data-science-schools-low-and-middle-income-countries,,"Hugh Shanahan, Bianca Peterson, Raphael Cóbe, Sara El jadid",rda-codata-schools@rda-groups.org,1
+Yes,Data lifecycle,Policy alignment,impact,Equity,Education and Training on Handling of Research Data IG,IG,RDM support and education ,Data management ,"RDM support, open education ",https://www.rd-alliance.org/groups/education-and-training-handling-research-data.html,"Core Characteristics of Learning Resource Collectors
+https://www.rd-alliance.org/group/education-and-training-handling-research-data-ig/outcomes/core-characteristics-learning 
+
+Recommendations for a minimal metadata set to aid harmonised discovery of learning resources
+https://www.rd-alliance.org/group/education-and-training-handling-research-data-ig/outcomes/recommendations-minimal-metadata-set ","Laura Molloy, Katarzyna Biernacka, Amy Nurnberger",rda-edu-ig@rda-groups.org,1
+Yes,Data lifecycle,Policy alignment,impact,Equity,RDA/CODATA Summer Schools in Data Science and Cloud Computing in the Developing World WG,WG,RDM support and education ,"Dissemination, Linking and Findability, 
+Policy, Legal Compliance, and Capacity ",RDM support ,https://www.rd-alliance.org/groups/rdacodata-summer-schools-data-science-and-cloud-computing-developing-world.html,"CODATA/RDA Summer School in Data Science and Cloud Computing in the Developing World WG Recommendations
+https://www.rd-alliance.org/group/rdacodata-summer-schools-data-science-and-cloud-computing-developing-world-wg/outcomes 
+
+A curriculum for foundational Research Data Science skills for Early Career Researchers
+https://www.rd-alliance.org/group/rdacodata-summer-schools-data-science-and-cloud-computing-developing-world-wg/outcomes-0 ","Andrew Harrison, Simon Hodson, Robert Quick, Hugh Shanahan",,1
+Yes,Data lifecycle,Policy alignment,impact,Equity,Skills and training curriculums to support FAIR research software IG,IG,"FAIR software, RDM support and education",na,RDM support,https://www.rd-alliance.org/groups/skills-and-training-curriculums-support-fair-research-software-ig,,"Michelle Barker, Hugh Shanahan",fair4rskills@rda-groups.org,1
+Yes,FAIR,Policy alignment,Legal,FAIR and IP,CURE-FAIR WG,WG,FAIR data ,Data management,FAIR data ,https://www.rd-alliance.org/groups/cure-fair-wg,"10 Things for Curating Reproducible and FAIR Research
+
+Challenges of Curating for Reproducible and FAIR Research Output 
+https://www.rd-alliance.org/group/cure-fair-wg/outcomes/challenges-curating-reproducible-and-fair-research-output ","Limor Peer, Florio Arguillas, Thu-Mai Christian, Tom Honeyman, Mandy Gooch",,1
+Yes,FAIR,Policy alignment,Legal,FAIR and IP,FAIR Data Maturity Model WG,WG,FAIR data,"Data management, 
+Dissemination, Linking and Findability",FAIR data ,https://www.rd-alliance.org/groups/fair-data-maturity-model-wg,"FAIR Data Maturity Model: specification and guidelines
+https://www.rd-alliance.org/group/fair-data-maturity-model-wg/outcomes/fair-data-maturity-model-specification-and-guidelines-0
+
+Member survey on bridging the gap between funders and communities – perspectives on benefits and challenges of FAIR assessments V2.0
+https://www.rd-alliance.org/group/fair-data-maturity-model-wg/outcomes/member-survey-bridging-gap-between-funders-and 
+
+Results of an Analysis of Existing FAIR Assessment Tools
+https://www.rd-alliance.org/group/fair-data-maturity-model-wg/outcomes/results-analysis-existing-fair-assessment-tools ","Edit Herczog, Keith Russell, Shelley Stall",,1
+Yes,FAIR,Policy alignment,Legal,FAIR and IP,FAIR Digital Object Fabric IG,IG,FAIR data ,na,Data management planning,https://www.rd-alliance.org/group/FAIR-digital-object-fabric-ig.html,"Summary of Virtual Layer Recommendations
+https://www.rd-alliance.org/group/fair-digital-object-fabric-ig/outcomes/summary-virtual-layer-recommendations 
+
+Persistent identifiers: Consolidated assertions
+https://www.rd-alliance.org/group/fair-digital-object-fabric-ig/outcomes/persistent-identifiers-consolidated-assertions ","Xin Chen, Rainer Stotzka, Robert Quick, Maggie Hellström",rda-fair-do-fabric-ig@rda-groups.org,1
+Yes,FAIR,Policy alignment,Legal,FAIR and IP,FAIR for Research Software (FAIR4RS) WG,WG,FAIR software,"Data management
+Policy, Legal Compliance, and Capacity 
+Computational infrastructures",FAIR software ,https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg,"FAIR Principles for Research Software (FAIR4RS Principles)
+https://www.rd-alliance.org/group/fair-research-software-fair4rs-wg/outcomes/fair-principles-research-software-fair4rs-0 ","Michelle Barker, Paula Andrea Martinez, Leyla Garcia, Daniel S. Katz, Neil Chue Hong, Jennifer Harrow, Fotis Psomopoulos, Carlos Martinez-Ortiz, Morane Gruenpeter",,1
+Yes,FAIR,Policy alignment,Legal,FAIR and IP,FAIR for Virtual Research Environments WG,WG,"Technical infrastructure, analysis, storage and preservation ",na,na,https://www.rd-alliance.org/groups/fair-virtual-research-environments-wg,,"Kerry Levett, Sandra Gesing, Kheeran Dharmawardena, Leyla Garcia",,1
+Yes,FAIR,Policy alignment,Legal,FAIR and IP,FAIR Principles for Research Hardware,IG,Non-digital (samples and hardware),na,Open Hardware,https://www.rd-alliance.org/groups/fair-principles-research-hardware,,"Nadica Miljkovi?, Julien Colomb",fair4rh@rda-groups.org,1
+Yes,FAIR,Policy alignment,Legal,FAIR and IP,GO FAIR Liaison IG,IG,"Policy, legal, global infrastructure ",na,"Policy, legal, compliance, capacity",https://www.rd-alliance.org/groups/go-fair-liaison-ig,,"Luiz Olavo Bonino da Silva Santos, Erik Schultes",gofair@rda-groups.org,1
+Yes,FAIR,Policy alignment,Legal,FAIR and IP,Raising FAIRness in health data and health research performing organisations (HRPOs) WG,WG,Health research ,na,na,https://www.rd-alliance.org/groups/raising-fairness-health-data-and-health-research-performing-organisations-hrpos-wg,,"Shanmugasundaram Venkataraman, Celia Alvarez-Romero, Kristan Kang, Anupama Gururaj",,1
+Yes,Open Science / Open Research Commons,Implementation,Collaboration,FAIR data commons,CURE-FAIR WG,WG,FAIR data ,Data management,FAIR data ,https://www.rd-alliance.org/groups/cure-fair-wg,"10 Things for Curating Reproducible and FAIR Research
+
+Challenges of Curating for Reproducible and FAIR Research Output 
+https://www.rd-alliance.org/group/cure-fair-wg/outcomes/challenges-curating-reproducible-and-fair-research-output ","Limor Peer, Florio Arguillas, Thu-Mai Christian, Tom Honeyman, Mandy Gooch",,1
+Yes,Open Science / Open Research Commons,Implementation,Collaboration,FAIR data commons,FAIR Data Maturity Model WG,WG,FAIR data,"Data management, 
+Dissemination, Linking and Findability",FAIR data ,https://www.rd-alliance.org/groups/fair-data-maturity-model-wg,"FAIR Data Maturity Model: specification and guidelines
+https://www.rd-alliance.org/group/fair-data-maturity-model-wg/outcomes/fair-data-maturity-model-specification-and-guidelines-0
+
+Member survey on bridging the gap between funders and communities – perspectives on benefits and challenges of FAIR assessments V2.0
+https://www.rd-alliance.org/group/fair-data-maturity-model-wg/outcomes/member-survey-bridging-gap-between-funders-and 
+
+Results of an Analysis of Existing FAIR Assessment Tools
+https://www.rd-alliance.org/group/fair-data-maturity-model-wg/outcomes/results-analysis-existing-fair-assessment-tools ","Edit Herczog, Keith Russell, Shelley Stall",,1
+Yes,Open Science / Open Research Commons,Implementation,Collaboration,FAIR data commons,FAIR Digital Object Fabric IG,IG,FAIR data ,na,Data management planning,https://www.rd-alliance.org/group/FAIR-digital-object-fabric-ig.html,"Summary of Virtual Layer Recommendations
+https://www.rd-alliance.org/group/fair-digital-object-fabric-ig/outcomes/summary-virtual-layer-recommendations 
+
+Persistent identifiers: Consolidated assertions
+https://www.rd-alliance.org/group/fair-digital-object-fabric-ig/outcomes/persistent-identifiers-consolidated-assertions ","Xin Chen, Rainer Stotzka, Robert Quick, Maggie Hellström",rda-fair-do-fabric-ig@rda-groups.org,1
+Yes,Open Science / Open Research Commons,Implementation,Collaboration,FAIR data commons,FAIR for Research Software (FAIR4RS) WG,WG,FAIR software,"Data management
+Policy, Legal Compliance, and Capacity 
+Computational infrastructures",FAIR software ,https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg,"FAIR Principles for Research Software (FAIR4RS Principles)
+https://www.rd-alliance.org/group/fair-research-software-fair4rs-wg/outcomes/fair-principles-research-software-fair4rs-0 ","Michelle Barker, Paula Andrea Martinez, Leyla Garcia, Daniel S. Katz, Neil Chue Hong, Jennifer Harrow, Fotis Psomopoulos, Carlos Martinez-Ortiz, Morane Gruenpeter",,1
+Yes,Open Science / Open Research Commons,Implementation,Collaboration,FAIR data commons,FAIR for Virtual Research Environments WG,WG,"Technical infrastructure, analysis, storage and preservation ",na,na,https://www.rd-alliance.org/groups/fair-virtual-research-environments-wg,,"Kerry Levett, Sandra Gesing, Kheeran Dharmawardena, Leyla Garcia",,1
+Yes,Open Science / Open Research Commons,Implementation,Collaboration,FAIR data commons,FAIR Principles for Research Hardware,IG,Non-digital (samples and hardware),na,Open Hardware,https://www.rd-alliance.org/groups/fair-principles-research-hardware,,"Nadica Miljkovi?, Julien Colomb",fair4rh@rda-groups.org,1
+Yes,Open Science / Open Research Commons,Implementation,Collaboration,FAIR data commons,GO FAIR Liaison IG,IG,"Policy, legal, global infrastructure ",na,"Policy, legal, compliance, capacity",https://www.rd-alliance.org/groups/go-fair-liaison-ig,,"Luiz Olavo Bonino da Silva Santos, Erik Schultes",gofair@rda-groups.org,1
+Yes,Open Science / Open Research Commons,Implementation,Collaboration,FAIR data commons,Raising FAIRness in health data and health research performing organisations (HRPOs) WG,WG,Health research ,na,na,https://www.rd-alliance.org/groups/raising-fairness-health-data-and-health-research-performing-organisations-hrpos-wg,,"Shanmugasundaram Venkataraman, Celia Alvarez-Romero, Kristan Kang, Anupama Gururaj",,1
+Yes,FAIR,Implementation,Collaboration,FAIR Research Data,CURE-FAIR WG,WG,FAIR data ,Data management,FAIR data ,https://www.rd-alliance.org/groups/cure-fair-wg,"10 Things for Curating Reproducible and FAIR Research
+
+Challenges of Curating for Reproducible and FAIR Research Output 
+https://www.rd-alliance.org/group/cure-fair-wg/outcomes/challenges-curating-reproducible-and-fair-research-output ","Limor Peer, Florio Arguillas, Thu-Mai Christian, Tom Honeyman, Mandy Gooch",,1
+Yes,FAIR,Implementation,Collaboration,FAIR Research Data,FAIR Data Maturity Model WG,WG,FAIR data,"Data management, 
+Dissemination, Linking and Findability",FAIR data ,https://www.rd-alliance.org/groups/fair-data-maturity-model-wg,"FAIR Data Maturity Model: specification and guidelines
+https://www.rd-alliance.org/group/fair-data-maturity-model-wg/outcomes/fair-data-maturity-model-specification-and-guidelines-0
+
+Member survey on bridging the gap between funders and communities – perspectives on benefits and challenges of FAIR assessments V2.0
+https://www.rd-alliance.org/group/fair-data-maturity-model-wg/outcomes/member-survey-bridging-gap-between-funders-and 
+
+Results of an Analysis of Existing FAIR Assessment Tools
+https://www.rd-alliance.org/group/fair-data-maturity-model-wg/outcomes/results-analysis-existing-fair-assessment-tools ","Edit Herczog, Keith Russell, Shelley Stall",,1
+Yes,FAIR,Implementation,Collaboration,FAIR Research Data,FAIR Digital Object Fabric IG,IG,FAIR data ,na,Data management planning,https://www.rd-alliance.org/group/FAIR-digital-object-fabric-ig.html,"Summary of Virtual Layer Recommendations
+https://www.rd-alliance.org/group/fair-digital-object-fabric-ig/outcomes/summary-virtual-layer-recommendations 
+
+Persistent identifiers: Consolidated assertions
+https://www.rd-alliance.org/group/fair-digital-object-fabric-ig/outcomes/persistent-identifiers-consolidated-assertions ","Xin Chen, Rainer Stotzka, Robert Quick, Maggie Hellström",rda-fair-do-fabric-ig@rda-groups.org,1
+Yes,FAIR,Implementation,Collaboration,FAIR Research Data,FAIR for Research Software (FAIR4RS) WG,WG,FAIR software,"Data management
+Policy, Legal Compliance, and Capacity 
+Computational infrastructures",FAIR software ,https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg,"FAIR Principles for Research Software (FAIR4RS Principles)
+https://www.rd-alliance.org/group/fair-research-software-fair4rs-wg/outcomes/fair-principles-research-software-fair4rs-0 ","Michelle Barker, Paula Andrea Martinez, Leyla Garcia, Daniel S. Katz, Neil Chue Hong, Jennifer Harrow, Fotis Psomopoulos, Carlos Martinez-Ortiz, Morane Gruenpeter",,1
+Yes,FAIR,Implementation,Collaboration,FAIR Research Data,FAIR for Virtual Research Environments WG,WG,"Technical infrastructure, analysis, storage and preservation ",na,na,https://www.rd-alliance.org/groups/fair-virtual-research-environments-wg,,"Kerry Levett, Sandra Gesing, Kheeran Dharmawardena, Leyla Garcia",,1
+Yes,FAIR,Implementation,Collaboration,FAIR Research Data,FAIR Principles for Research Hardware,IG,Non-digital (samples and hardware),na,Open Hardware,https://www.rd-alliance.org/groups/fair-principles-research-hardware,,"Nadica Miljkovi?, Julien Colomb",fair4rh@rda-groups.org,1
+Yes,FAIR,Implementation,Collaboration,FAIR Research Data,GO FAIR Liaison IG,IG,"Policy, legal, global infrastructure ",na,"Policy, legal, compliance, capacity",https://www.rd-alliance.org/groups/go-fair-liaison-ig,,"Luiz Olavo Bonino da Silva Santos, Erik Schultes",gofair@rda-groups.org,1
+Yes,FAIR,Implementation,Collaboration,FAIR Research Data,Raising FAIRness in health data and health research performing organisations (HRPOs) WG,WG,Health research ,na,na,https://www.rd-alliance.org/groups/raising-fairness-health-data-and-health-research-performing-organisations-hrpos-wg,,"Shanmugasundaram Venkataraman, Celia Alvarez-Romero, Kristan Kang, Anupama Gururaj",,1
+Yes,Open Science / Open Research Commons,Policy alignment,Incentives,Funder incentives to open research data management practices,Libraries for Research Data IG,IG,RDM support and education ,Data management ,RDM support ,https://www.rd-alliance.org/groups/libraries-research-data.html,"23 Things: Libraries for Research Data (Supporting Output)
+https://www.rd-alliance.org/group/libraries-research-data-ig/outcomes/23-things-libraries-research-data-supporting-output 
+
+Engaging Researchers with Data Management: The Cookbook
+https://www.rd-alliance.org/group/libraries-research-data-ig/outcomes/engaging-researchers-data-management-cookbook 
+
+Top 10 FAIR Data & Software Things
+https://www.rd-alliance.org/group/libraries-research-data-ig/outcomes/top-10-fair-data-software-things","Birgit Schmidt, Andrea Ogier, Christopher Erdmann, Naresh Kumar, Su Nee Goh, Stanislaus Agava",rda-libresearchdata@rda-groups.org,1
+Yes,Open Science / Open Research Commons,Policy alignment,Incentives,Funder incentives to open research data management practices,Research Data Management in Engineering IG,IG,Disciplinary: Materials science and engineering,na,Discipline-specific ,https://www.rd-alliance.org/groups/research-data-management-engineering-ig,,"Daniela Hausen, Gretchen Greene, Kevin Logan",rdmeng@rda-groups.org,1
+Yes,Data lifecycle,Policy alignment,Requirements,Funder's requirements with respect to 'sensitive' data (whether personnal information or strategic data),Sensitive Data Interest Group,IG,Information security ,Information security ,"Policy, legal, compliance, capacity",https://www.rd-alliance.org/groups/sensitive-data-interest-group,,"Kristal Spreadborough, Priyanka Pillai, Aleksandra Michalewicz, Nichola Burton, Steven McEachern, Romain DAVID, Dharma Akmon, Kristan Kang, Sarah Davidson, Frankie Stevens",sensitivedata@rda-groups.org,1
+Yes,Data lifecycle,Policy alignment,Requirements,Funder's requirements with respect to 'sensitive' data (whether personnal information or strategic data),Social Science Research Data IG,IG,Disciplinary: Social science,na,Discipline-specific,https://www.rd-alliance.org/groups/social-science-research-data-ig,,"Ron Dekker, Jonathan Crabtree, Steven McEachern",sshrd@rda-groups.org,1
+Yes,Open Science / Open Research Commons,Policy alignment,Sustainability,Funding shared infrastructure,Data Repository Attributes WG,WG,"Technical infrastructure, analysis, storage and preservation ",na,na,https://www.rd-alliance.org/groups/data-repository-attributes-wg,,"Michael Witt, Kathleen Shearer, Allyson Lister, Matthew Cannon, Washington Luís Ribeiro de Segundo, Kazu Yamaji",,1
+Yes,Open Science / Open Research Commons,Policy alignment,Sustainability,Funding shared infrastructure,Repository Platforms for Research Data IG,IG,"Technical infrastructure, analysis, storage and preservation ","Data management, Data collection, Data description, 
+Identification, storage and preservation,
+Dissemination, Linking and Findability
+Policy, Legal Compliance, and Capacity
+Computational infrastructures",Data storage and preservation,https://www.rd-alliance.org/groups/repository-platforms-research-data.html,"Matrix of use cases and functional requirements for research data repository platforms
+https://www.rd-alliance.org/group/repository-platforms-research-data-ig/outcomes/matrix-use-cases-and-functional-requirements ","Robert Downs, LILi Zhang, Devan Ray Donaldson",rda-repoplatforms-ig@rda-groups.org,1
+Yes,Open Science / Open Research Commons,Policy alignment,Sustainability,"High-level international/inter-governmental (like G7 etc.) policy related to open science, FAIR data sharing and data infrastructure",Data for Development IG,IG,Open and responsible research ,"Data management, open and responsible research",Interdisciplinary data ,https://www.rd-alliance.org/groups/data-development.html,,"Ingvill Constanze Mochmann, Norman Mukasa, Robert Sentamu, Mahadia Tunga, Agapiti Manday",rda-datadev-ig@rda-groups.org,1
+Yes,Open Science / Open Research Commons,Policy alignment,Sustainability,"High-level international/inter-governmental (like G7 etc.) policy related to open science, FAIR data sharing and data infrastructure",Data policy standardisation and implementation IG,IG,"Policy, legal, global infrastructure ","Policy, legal, compliance, capacity","Policy, legal, compliance, capacity",https://www.rd-alliance.org/groups/data-policy-standardisation-and-implementation-ig,,"Iain Hrynaszkiewicz, Natasha Simons, Simon Goudie, Azhar Hussain, Rebecca Grant",rda-data-policy-standardisation-ig@rda-groups.org,1
+Yes,Research Assessment,Policy alignment,impact,impact assessment of data sharing (towards evaluation),Sharing Rewards and Credit (SHARC) IG,IG,"Impact, metrics and credit","Data management, open and responsible research",RDM support ,https://www.rd-alliance.org/groups/sharing-rewards-and-credit-sharc-ig,,"Anne Cambon-Thomsen, Laurence Mabile, Anne-Marie Tassé, Romain DAVID, Christopher Erdmann, Hanna Shmagun",sharc-ig@rda-groups.org,1
+Yes,Research Assessment,Policy alignment,impact,Incentive system,Data policy standardisation and implementation IG,IG,"Policy, legal, global infrastructure ","Policy, legal, compliance, capacity","Policy, legal, compliance, capacity",https://www.rd-alliance.org/groups/data-policy-standardisation-and-implementation-ig,,"Iain Hrynaszkiewicz, Natasha Simons, Simon Goudie, Azhar Hussain, Rebecca Grant",rda-data-policy-standardisation-ig@rda-groups.org,1
+Yes,Open Science / Open Research Commons,Policy alignment,Sustainability,Innovation policy making SDGs,Data policy standardisation and implementation IG,IG,"Policy, legal, global infrastructure ","Policy, legal, compliance, capacity","Policy, legal, compliance, capacity",https://www.rd-alliance.org/groups/data-policy-standardisation-and-implementation-ig,,"Iain Hrynaszkiewicz, Natasha Simons, Simon Goudie, Azhar Hussain, Rebecca Grant",rda-data-policy-standardisation-ig@rda-groups.org,1
+Yes,Open Science / Open Research Commons,Implementation,Sustainability,Institutional Repositories,Data Repository Attributes WG,WG,"Technical infrastructure, analysis, storage and preservation ",na,na,https://www.rd-alliance.org/groups/data-repository-attributes-wg,,"Michael Witt, Kathleen Shearer, Allyson Lister, Matthew Cannon, Washington Luís Ribeiro de Segundo, Kazu Yamaji",,1
+Yes,Open Science / Open Research Commons,Implementation,Sustainability,Institutional Repositories,Domain Repositories IG,IG,"Technical infrastructure, analysis, storage and preservation ",Computational infrastructures,Data storage and preservation ,https://www.rd-alliance.org/groups/domain-repositories-ig.html,,"Kerstin Lehnert, Peter Doorn",domain-repositories-ig@rda-groups.org,1
+Yes,Open Science / Open Research Commons,Implementation,Sustainability,Institutional Repositories,Repository Platforms for Research Data IG,IG,"Technical infrastructure, analysis, storage and preservation ","Data management, Data collection, Data description, 
+Identification, storage and preservation,
+Dissemination, Linking and Findability
+Policy, Legal Compliance, and Capacity
+Computational infrastructures",Data storage and preservation,https://www.rd-alliance.org/groups/repository-platforms-research-data.html,"Matrix of use cases and functional requirements for research data repository platforms
+https://www.rd-alliance.org/group/repository-platforms-research-data-ig/outcomes/matrix-use-cases-and-functional-requirements ","Robert Downs, LILi Zhang, Devan Ray Donaldson",rda-repoplatforms-ig@rda-groups.org,1
+Yes,Open Science / Open Research Commons,Implementation,impact,Integrating the preprint and open data infrastructures,Data Repository Attributes WG,WG,"Technical infrastructure, analysis, storage and preservation ",na,na,https://www.rd-alliance.org/groups/data-repository-attributes-wg,,"Michael Witt, Kathleen Shearer, Allyson Lister, Matthew Cannon, Washington Luís Ribeiro de Segundo, Kazu Yamaji",,1
+Yes,Open Science / Open Research Commons,Implementation,impact,Integrating the preprint and open data infrastructures,Domain Repositories IG,IG,"Technical infrastructure, analysis, storage and preservation ",Computational infrastructures,Data storage and preservation ,https://www.rd-alliance.org/groups/domain-repositories-ig.html,,"Kerstin Lehnert, Peter Doorn",domain-repositories-ig@rda-groups.org,1
+Yes,Open Science / Open Research Commons,Policy alignment,Collaboration,International collaborations,Data for Development IG,IG,Open and responsible research ,"Data management, open and responsible research",Interdisciplinary data ,https://www.rd-alliance.org/groups/data-development.html,,"Ingvill Constanze Mochmann, Norman Mukasa, Robert Sentamu, Mahadia Tunga, Agapiti Manday",rda-datadev-ig@rda-groups.org,1
+Yes,FAIR,Policy alignment,impact,Interoperable Data,Metadata IG,IG,Identification and description: Metadata,"Data management, Data collection, Data description,
+Identification, storage and preservation,
+Dissemination, Linking and Findability
+Policy, Legal Compliance, and Capacity
+","Data discoverability and accessibility
+Computational infrastructures",https://www.rd-alliance.org/groups/metadata-ig.html,"Metadata Principles
+https://www.rd-alliance.org/group/metadata-ig/outcomes/metadata-principles ","Keith Jeffery, Rebecca Koskela, Alex Ball",rda-metadata-ig@rda-groups.org,1
+Yes,FAIR,Policy alignment,impact,Interoperable Data,Metadata Standards Catalog WG,WG,Identification and description: Metadata,"Data management, Data description",Data discoverability and accessibility,https://www.rd-alliance.org/groups/metadata-standards-catalog-working-group.html,,"Rebecca Koskela, Keith Jeffery, Alex Ball",,1
+Yes,FAIR,Policy alignment,Incentives,introducing FAIR practices as early as possible in funding process,CURE-FAIR WG,WG,FAIR data ,Data management,FAIR data ,https://www.rd-alliance.org/groups/cure-fair-wg,"10 Things for Curating Reproducible and FAIR Research
+
+Challenges of Curating for Reproducible and FAIR Research Output 
+https://www.rd-alliance.org/group/cure-fair-wg/outcomes/challenges-curating-reproducible-and-fair-research-output ","Limor Peer, Florio Arguillas, Thu-Mai Christian, Tom Honeyman, Mandy Gooch",,1
+Yes,FAIR,Policy alignment,Incentives,introducing FAIR practices as early as possible in funding process,FAIR Data Maturity Model WG,WG,FAIR data,"Data management, 
+Dissemination, Linking and Findability",FAIR data ,https://www.rd-alliance.org/groups/fair-data-maturity-model-wg,"FAIR Data Maturity Model: specification and guidelines
+https://www.rd-alliance.org/group/fair-data-maturity-model-wg/outcomes/fair-data-maturity-model-specification-and-guidelines-0
+
+Member survey on bridging the gap between funders and communities – perspectives on benefits and challenges of FAIR assessments V2.0
+https://www.rd-alliance.org/group/fair-data-maturity-model-wg/outcomes/member-survey-bridging-gap-between-funders-and 
+
+Results of an Analysis of Existing FAIR Assessment Tools
+https://www.rd-alliance.org/group/fair-data-maturity-model-wg/outcomes/results-analysis-existing-fair-assessment-tools ","Edit Herczog, Keith Russell, Shelley Stall",,1
+Yes,FAIR,Policy alignment,Incentives,introducing FAIR practices as early as possible in funding process,FAIR Digital Object Fabric IG,IG,FAIR data ,na,Data management planning,https://www.rd-alliance.org/group/FAIR-digital-object-fabric-ig.html,"Summary of Virtual Layer Recommendations
+https://www.rd-alliance.org/group/fair-digital-object-fabric-ig/outcomes/summary-virtual-layer-recommendations 
+
+Persistent identifiers: Consolidated assertions
+https://www.rd-alliance.org/group/fair-digital-object-fabric-ig/outcomes/persistent-identifiers-consolidated-assertions ","Xin Chen, Rainer Stotzka, Robert Quick, Maggie Hellström",rda-fair-do-fabric-ig@rda-groups.org,1
+Yes,FAIR,Policy alignment,Incentives,introducing FAIR practices as early as possible in funding process,FAIR for Research Software (FAIR4RS) WG,WG,FAIR software,"Data management
+Policy, Legal Compliance, and Capacity 
+Computational infrastructures",FAIR software ,https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg,"FAIR Principles for Research Software (FAIR4RS Principles)
+https://www.rd-alliance.org/group/fair-research-software-fair4rs-wg/outcomes/fair-principles-research-software-fair4rs-0 ","Michelle Barker, Paula Andrea Martinez, Leyla Garcia, Daniel S. Katz, Neil Chue Hong, Jennifer Harrow, Fotis Psomopoulos, Carlos Martinez-Ortiz, Morane Gruenpeter",,1
+Yes,FAIR,Policy alignment,Incentives,introducing FAIR practices as early as possible in funding process,FAIR for Virtual Research Environments WG,WG,"Technical infrastructure, analysis, storage and preservation ",na,na,https://www.rd-alliance.org/groups/fair-virtual-research-environments-wg,,"Kerry Levett, Sandra Gesing, Kheeran Dharmawardena, Leyla Garcia",,1
+Yes,FAIR,Policy alignment,Incentives,introducing FAIR practices as early as possible in funding process,FAIR Principles for Research Hardware,IG,Non-digital (samples and hardware),na,Open Hardware,https://www.rd-alliance.org/groups/fair-principles-research-hardware,,"Nadica Miljkovi?, Julien Colomb",fair4rh@rda-groups.org,1
+Yes,FAIR,Policy alignment,Incentives,introducing FAIR practices as early as possible in funding process,GO FAIR Liaison IG,IG,"Policy, legal, global infrastructure ",na,"Policy, legal, compliance, capacity",https://www.rd-alliance.org/groups/go-fair-liaison-ig,,"Luiz Olavo Bonino da Silva Santos, Erik Schultes",gofair@rda-groups.org,1
+Yes,FAIR,Policy alignment,Incentives,introducing FAIR practices as early as possible in funding process,Raising FAIRness in health data and health research performing organisations (HRPOs) WG,WG,Health research ,na,na,https://www.rd-alliance.org/groups/raising-fairness-health-data-and-health-research-performing-organisations-hrpos-wg,,"Shanmugasundaram Venkataraman, Celia Alvarez-Romero, Kristan Kang, Anupama Gururaj",,1
+Yes,Open Science / Open Research Commons,Implementation,impact,Joining forces for developing and maintaining a data integrity toolset,Data Repository Attributes WG,WG,"Technical infrastructure, analysis, storage and preservation ",na,na,https://www.rd-alliance.org/groups/data-repository-attributes-wg,,"Michael Witt, Kathleen Shearer, Allyson Lister, Matthew Cannon, Washington Luís Ribeiro de Segundo, Kazu Yamaji",,1
+Yes,Open Science / Open Research Commons,Implementation,impact,Joining forces for developing and maintaining a data integrity toolset,Domain Repositories IG,IG,"Technical infrastructure, analysis, storage and preservation ",Computational infrastructures,Data storage and preservation ,https://www.rd-alliance.org/groups/domain-repositories-ig.html,,"Kerstin Lehnert, Peter Doorn",domain-repositories-ig@rda-groups.org,1
+Yes,Open Science / Open Research Commons,Policy alignment,Collaboration,National digital research infrastructure strategy,FAIR Digital Object Fabric IG,IG,FAIR data ,na,Data management planning,https://www.rd-alliance.org/group/FAIR-digital-object-fabric-ig.html,"Summary of Virtual Layer Recommendations
+https://www.rd-alliance.org/group/fair-digital-object-fabric-ig/outcomes/summary-virtual-layer-recommendations 
+
+Persistent identifiers: Consolidated assertions
+https://www.rd-alliance.org/group/fair-digital-object-fabric-ig/outcomes/persistent-identifiers-consolidated-assertions ","Xin Chen, Rainer Stotzka, Robert Quick, Maggie Hellström",rda-fair-do-fabric-ig@rda-groups.org,1
+Yes,Open Science / Open Research Commons,Policy alignment,Collaboration,National Nodes,National PID Strategies WG,WG,Identification and description: PIDs,"Dissemination, linking and findability ",Persistent identfiers ,https://www.rd-alliance.org/groups/national-pid-strategies-wg,,"Christopher Brown, Natasha Simons, Daniel Bangert, Shawna Sadler",,1
+Yes,Open Science / Open Research Commons,Implementation,Collaboration,National PID strategies,National PID Strategies WG,WG,Identification and description: PIDs,"Dissemination, linking and findability ",Persistent identfiers ,https://www.rd-alliance.org/groups/national-pid-strategies-wg,,"Christopher Brown, Natasha Simons, Daniel Bangert, Shawna Sadler",,1
+Yes,Open Science / Open Research Commons,Implementation,Collaboration,National PID strategies,Persistent Identification of Instruments WG,WG,Identification and description: PIDs,"Data management, Data description 
+Data analysis ",Data discoverability and accessibility,https://www.rd-alliance.org/groups/persistent-identification-instruments-wg,"Metadata Schema for the Persistent Identification of Instruments
+https://www.rd-alliance.org/group/persistent-identification-instruments-wg/outcomes/metadata-schema-persistent-identification 
+
+Persistent Identification of Instruments
+https://www.rd-alliance.org/group/persistent-identification-instruments-wg/outcomes/persistent-identification-instruments ","Louise Darroch, Markus Stocker, Rolf Krahl, Ted Habermann",,1
+Yes,Open Science / Open Research Commons,Implementation,Collaboration,National PID strategies,PID IG,IG,Identification and description: PIDs,Computational infrastructures,Data discoverability and accessibility,https://www.rd-alliance.org/groups/pid-interest-group.html,,"Jonathan Clark, Laurel Haak, Adrian Burton",rda-pid-ig@rda-groups.org,1
+Yes,Open Science / Open Research Commons,Implementation,Collaboration,National PID strategies,Preserving Scientific Annotation WG,WG,na,na,na,https://www.rd-alliance.org/groups/preserving-scientific-annotation-wg,,,,1
+Yes,Open Science / Open Research Commons,Policy alignment,Collaboration,Open Research,Global Open Research Commons IG,IG,"Policy, legal, global infrastructure ",na,"Policy, legal, compliance, capacity",https://www.rd-alliance.org/groups/global-open-research-commons-ig,,"Andrew Treloar, Sarah Jones, Devika Madalli, Mark Leggott, Javier Lopez Albacete",gorc-ig@rda-groups.org,1
+Yes,Open Science / Open Research Commons,Policy alignment,Collaboration,Open Research,Life Science Data Infrastructures IG,IG,Disciplinary: Life Science,na,Discipline-specific ,https://www.rd-alliance.org/groups/life-science-data-infrastructures-ig,,"Jeff Christiansen, Nicola Mulder, Susan Gregurick, Wolmar Nyberg Åkerström, Elisha Wood-Charlson",rda-lifescidatainf@rda-groups.org,1
+Yes,Open Science / Open Research Commons,Implementation,impact,Open science initiatives and impact of UNESCO's recommendations,Global Open Research Commons IG,IG,"Policy, legal, global infrastructure ",na,"Policy, legal, compliance, capacity",https://www.rd-alliance.org/groups/global-open-research-commons-ig,,"Andrew Treloar, Sarah Jones, Devika Madalli, Mark Leggott, Javier Lopez Albacete",gorc-ig@rda-groups.org,1
+Yes,Open Science / Open Research Commons,Implementation,impact,Open science initiatives and impact of UNESCO's recommendations,Life Science Data Infrastructures IG,IG,Disciplinary: Life Science,na,Discipline-specific ,https://www.rd-alliance.org/groups/life-science-data-infrastructures-ig,,"Jeff Christiansen, Nicola Mulder, Susan Gregurick, Wolmar Nyberg Åkerström, Elisha Wood-Charlson",rda-lifescidatainf@rda-groups.org,1
+Yes,Open Science / Open Research Commons,Policy alignment,Incentives,Open Science Policies,Data policy standardisation and implementation IG,IG,"Policy, legal, global infrastructure ","Policy, legal, compliance, capacity","Policy, legal, compliance, capacity",https://www.rd-alliance.org/groups/data-policy-standardisation-and-implementation-ig,,"Iain Hrynaszkiewicz, Natasha Simons, Simon Goudie, Azhar Hussain, Rebecca Grant",rda-data-policy-standardisation-ig@rda-groups.org,1
+Yes,Open Science / Open Research Commons,Policy alignment,Collaboration,Openness and Reproducibility,CURE-FAIR WG,WG,FAIR data ,Data management,FAIR data ,https://www.rd-alliance.org/groups/cure-fair-wg,"10 Things for Curating Reproducible and FAIR Research
+
+Challenges of Curating for Reproducible and FAIR Research Output 
+https://www.rd-alliance.org/group/cure-fair-wg/outcomes/challenges-curating-reproducible-and-fair-research-output ","Limor Peer, Florio Arguillas, Thu-Mai Christian, Tom Honeyman, Mandy Gooch",,1
+Yes,Open Science / Open Research Commons,Policy alignment,Collaboration,Openness and Reproducibility,Software Source Code IG,IG,FAIR software ,Computational infrastructures,FAIR software ,https://www.rd-alliance.org/groups/software-source-code-ig,,"Morane Gruenpeter, Neil Chue Hong, Julia Collins",software-source-code-ig@rda-groups.org,1
+Yes,Open Science / Open Research Commons,Implementation,Collaboration,Persistent Identifiers,National PID Strategies WG,WG,Identification and description: PIDs,"Dissemination, linking and findability ",Persistent identfiers ,https://www.rd-alliance.org/groups/national-pid-strategies-wg,,"Christopher Brown, Natasha Simons, Daniel Bangert, Shawna Sadler",,1
+Yes,Open Science / Open Research Commons,Implementation,Collaboration,Persistent Identifiers,Persistent Identification of Instruments WG,WG,Identification and description: PIDs,"Data management, Data description 
+Data analysis ",Data discoverability and accessibility,https://www.rd-alliance.org/groups/persistent-identification-instruments-wg,"Metadata Schema for the Persistent Identification of Instruments
+https://www.rd-alliance.org/group/persistent-identification-instruments-wg/outcomes/metadata-schema-persistent-identification 
+
+Persistent Identification of Instruments
+https://www.rd-alliance.org/group/persistent-identification-instruments-wg/outcomes/persistent-identification-instruments ","Louise Darroch, Markus Stocker, Rolf Krahl, Ted Habermann",,1
+Yes,Open Science / Open Research Commons,Implementation,Collaboration,Persistent Identifiers,PID IG,IG,Identification and description: PIDs,Computational infrastructures,Data discoverability and accessibility,https://www.rd-alliance.org/groups/pid-interest-group.html,,"Jonathan Clark, Laurel Haak, Adrian Burton",rda-pid-ig@rda-groups.org,1
+Yes,Open Science / Open Research Commons,Implementation,Collaboration,Persistent Identifiers,Preserving Scientific Annotation WG,WG,na,na,na,https://www.rd-alliance.org/groups/preserving-scientific-annotation-wg,,,,1
+Yes,Open Science / Open Research Commons,Policy alignment,Collaboration,Policies on management and sharing of data,Data policy standardisation and implementation IG,IG,"Policy, legal, global infrastructure ","Policy, legal, compliance, capacity","Policy, legal, compliance, capacity",https://www.rd-alliance.org/groups/data-policy-standardisation-and-implementation-ig,,"Iain Hrynaszkiewicz, Natasha Simons, Simon Goudie, Azhar Hussain, Rebecca Grant",rda-data-policy-standardisation-ig@rda-groups.org,1
+Yes,Open Science / Open Research Commons,Policy alignment,Collaboration,Policies on management and sharing of data,Libraries for Research Data IG,IG,RDM support and education ,Data management ,RDM support ,https://www.rd-alliance.org/groups/libraries-research-data.html,"23 Things: Libraries for Research Data (Supporting Output)
+https://www.rd-alliance.org/group/libraries-research-data-ig/outcomes/23-things-libraries-research-data-supporting-output 
+
+Engaging Researchers with Data Management: The Cookbook
+https://www.rd-alliance.org/group/libraries-research-data-ig/outcomes/engaging-researchers-data-management-cookbook 
+
+Top 10 FAIR Data & Software Things
+https://www.rd-alliance.org/group/libraries-research-data-ig/outcomes/top-10-fair-data-software-things","Birgit Schmidt, Andrea Ogier, Christopher Erdmann, Naresh Kumar, Su Nee Goh, Stanislaus Agava",rda-libresearchdata@rda-groups.org,1
+Yes,Open Science / Open Research Commons,Policy alignment,Collaboration,Policies on management and sharing of data,Research Data Management in Engineering IG,IG,Disciplinary: Materials science and engineering,na,Discipline-specific ,https://www.rd-alliance.org/groups/research-data-management-engineering-ig,,"Daniela Hausen, Gretchen Greene, Kevin Logan",rdmeng@rda-groups.org,1
+Yes,Open Science / Open Research Commons,Policy alignment,Collaboration,Policy alignment / harmonisation,Data policy standardisation and implementation IG,IG,"Policy, legal, global infrastructure ","Policy, legal, compliance, capacity","Policy, legal, compliance, capacity",https://www.rd-alliance.org/groups/data-policy-standardisation-and-implementation-ig,,"Iain Hrynaszkiewicz, Natasha Simons, Simon Goudie, Azhar Hussain, Rebecca Grant",rda-data-policy-standardisation-ig@rda-groups.org,1
+Yes,Open Science / Open Research Commons,Implementation,impact,Providing and storage the Research Data from supported projects,Libraries for Research Data IG,IG,RDM support and education ,Data management ,RDM support ,https://www.rd-alliance.org/groups/libraries-research-data.html,"23 Things: Libraries for Research Data (Supporting Output)
+https://www.rd-alliance.org/group/libraries-research-data-ig/outcomes/23-things-libraries-research-data-supporting-output 
+
+Engaging Researchers with Data Management: The Cookbook
+https://www.rd-alliance.org/group/libraries-research-data-ig/outcomes/engaging-researchers-data-management-cookbook 
+
+Top 10 FAIR Data & Software Things
+https://www.rd-alliance.org/group/libraries-research-data-ig/outcomes/top-10-fair-data-software-things","Birgit Schmidt, Andrea Ogier, Christopher Erdmann, Naresh Kumar, Su Nee Goh, Stanislaus Agava",rda-libresearchdata@rda-groups.org,1
+Yes,Open Science / Open Research Commons,Implementation,impact,Providing and storage the Research Data from supported projects,Research Data Management in Engineering IG,IG,Disciplinary: Materials science and engineering,na,Discipline-specific ,https://www.rd-alliance.org/groups/research-data-management-engineering-ig,,"Daniela Hausen, Gretchen Greene, Kevin Logan",rdmeng@rda-groups.org,1
+Yes,Open Science / Open Research Commons,Implementation,impact,Providing Research Data from Journals,Data policy standardisation and implementation IG,IG,"Policy, legal, global infrastructure ","Policy, legal, compliance, capacity","Policy, legal, compliance, capacity",https://www.rd-alliance.org/groups/data-policy-standardisation-and-implementation-ig,,"Iain Hrynaszkiewicz, Natasha Simons, Simon Goudie, Azhar Hussain, Rebecca Grant",rda-data-policy-standardisation-ig@rda-groups.org,1
+Yes,Open Science / Open Research Commons,Implementation,impact,Providing Research Data from Journals,RDA/WDS Publishing Data Workflows WG,WG,FAIR data ,"Dissemination, Linking and Findability 
+Computational infrastructures ",,https://www.rd-alliance.org/groups/rdawds-publishing-data-workflows-wg.html,"RDA/WDS Publishing Data Workflows WG Recommendations
+https://www.rd-alliance.org/group/rdawds-publishing-data-workflows-wg/outcomes/rdawds-publishing-data-workflows-wg ","Suenje Dallmeier-Tiessen, Fiona Murphy, Amy Nurnberger, Varsha Khodiyar",,1
+Yes,Open Science / Open Research Commons,Implementation,Collaboration,RDA work in developing countries,Data for Development IG,IG,Open and responsible research ,"Data management, open and responsible research",Interdisciplinary data ,https://www.rd-alliance.org/groups/data-development.html,,"Ingvill Constanze Mochmann, Norman Mukasa, Robert Sentamu, Mahadia Tunga, Agapiti Manday",rda-datadev-ig@rda-groups.org,1
+Yes,Research Assessment,Policy alignment,Incentives,Recognition of preprint peer review in research assessement and funding decision making,Sharing Rewards and Credit (SHARC) IG,IG,"Impact, metrics and credit","Data management, open and responsible research",RDM support ,https://www.rd-alliance.org/groups/sharing-rewards-and-credit-sharc-ig,,"Anne Cambon-Thomsen, Laurence Mabile, Anne-Marie Tassé, Romain DAVID, Christopher Erdmann, Hanna Shmagun",sharc-ig@rda-groups.org,1
+Yes,Research Assessment,Policy alignment,Incentives,Research assessment,Sharing Rewards and Credit (SHARC) IG,IG,"Impact, metrics and credit","Data management, open and responsible research",RDM support ,https://www.rd-alliance.org/groups/sharing-rewards-and-credit-sharc-ig,,"Anne Cambon-Thomsen, Laurence Mabile, Anne-Marie Tassé, Romain DAVID, Christopher Erdmann, Hanna Shmagun",sharc-ig@rda-groups.org,1
+Yes,Research Assessment,Policy alignment,NA,research assessment in the context of open science and rdm more specifically,Sharing Rewards and Credit (SHARC) IG,IG,"Impact, metrics and credit","Data management, open and responsible research",RDM support ,https://www.rd-alliance.org/groups/sharing-rewards-and-credit-sharc-ig,,"Anne Cambon-Thomsen, Laurence Mabile, Anne-Marie Tassé, Romain DAVID, Christopher Erdmann, Hanna Shmagun",sharc-ig@rda-groups.org,1
+Yes,Open Data,Implementation,Sustainability,Research Data Management/ Open Data,Libraries for Research Data IG,IG,RDM support and education ,Data management ,RDM support ,https://www.rd-alliance.org/groups/libraries-research-data.html,"23 Things: Libraries for Research Data (Supporting Output)
+https://www.rd-alliance.org/group/libraries-research-data-ig/outcomes/23-things-libraries-research-data-supporting-output 
+
+Engaging Researchers with Data Management: The Cookbook
+https://www.rd-alliance.org/group/libraries-research-data-ig/outcomes/engaging-researchers-data-management-cookbook 
+
+Top 10 FAIR Data & Software Things
+https://www.rd-alliance.org/group/libraries-research-data-ig/outcomes/top-10-fair-data-software-things","Birgit Schmidt, Andrea Ogier, Christopher Erdmann, Naresh Kumar, Su Nee Goh, Stanislaus Agava",rda-libresearchdata@rda-groups.org,1
+Yes,Open Data,Implementation,Sustainability,Research Data Management/ Open Data,Research Data Management in Engineering IG,IG,Disciplinary: Materials science and engineering,na,Discipline-specific ,https://www.rd-alliance.org/groups/research-data-management-engineering-ig,,"Daniela Hausen, Gretchen Greene, Kevin Logan",rdmeng@rda-groups.org,1
+Yes,Research Assessment,Policy alignment,Incentives,Rewarding good research practice in data management and sharing,Sharing Rewards and Credit (SHARC) IG,IG,"Impact, metrics and credit","Data management, open and responsible research",RDM support ,https://www.rd-alliance.org/groups/sharing-rewards-and-credit-sharc-ig,,"Anne Cambon-Thomsen, Laurence Mabile, Anne-Marie Tassé, Romain DAVID, Christopher Erdmann, Hanna Shmagun",sharc-ig@rda-groups.org,1
+Yes,FAIR,Policy alignment,Incentives,role of funders to enforce FAIR data,CURE-FAIR WG,WG,FAIR data ,Data management,FAIR data ,https://www.rd-alliance.org/groups/cure-fair-wg,"10 Things for Curating Reproducible and FAIR Research
+
+Challenges of Curating for Reproducible and FAIR Research Output 
+https://www.rd-alliance.org/group/cure-fair-wg/outcomes/challenges-curating-reproducible-and-fair-research-output ","Limor Peer, Florio Arguillas, Thu-Mai Christian, Tom Honeyman, Mandy Gooch",,1
+Yes,FAIR,Policy alignment,Incentives,role of funders to enforce FAIR data,FAIR Data Maturity Model WG,WG,FAIR data,"Data management, 
+Dissemination, Linking and Findability",FAIR data ,https://www.rd-alliance.org/groups/fair-data-maturity-model-wg,"FAIR Data Maturity Model: specification and guidelines
+https://www.rd-alliance.org/group/fair-data-maturity-model-wg/outcomes/fair-data-maturity-model-specification-and-guidelines-0
+
+Member survey on bridging the gap between funders and communities – perspectives on benefits and challenges of FAIR assessments V2.0
+https://www.rd-alliance.org/group/fair-data-maturity-model-wg/outcomes/member-survey-bridging-gap-between-funders-and 
+
+Results of an Analysis of Existing FAIR Assessment Tools
+https://www.rd-alliance.org/group/fair-data-maturity-model-wg/outcomes/results-analysis-existing-fair-assessment-tools ","Edit Herczog, Keith Russell, Shelley Stall",,1
+Yes,FAIR,Policy alignment,Incentives,role of funders to enforce FAIR data,FAIR Digital Object Fabric IG,IG,FAIR data ,na,Data management planning,https://www.rd-alliance.org/group/FAIR-digital-object-fabric-ig.html,"Summary of Virtual Layer Recommendations
+https://www.rd-alliance.org/group/fair-digital-object-fabric-ig/outcomes/summary-virtual-layer-recommendations 
+
+Persistent identifiers: Consolidated assertions
+https://www.rd-alliance.org/group/fair-digital-object-fabric-ig/outcomes/persistent-identifiers-consolidated-assertions ","Xin Chen, Rainer Stotzka, Robert Quick, Maggie Hellström",rda-fair-do-fabric-ig@rda-groups.org,1
+Yes,FAIR,Policy alignment,Incentives,role of funders to enforce FAIR data,FAIR for Research Software (FAIR4RS) WG,WG,FAIR software,"Data management
+Policy, Legal Compliance, and Capacity 
+Computational infrastructures",FAIR software ,https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg,"FAIR Principles for Research Software (FAIR4RS Principles)
+https://www.rd-alliance.org/group/fair-research-software-fair4rs-wg/outcomes/fair-principles-research-software-fair4rs-0 ","Michelle Barker, Paula Andrea Martinez, Leyla Garcia, Daniel S. Katz, Neil Chue Hong, Jennifer Harrow, Fotis Psomopoulos, Carlos Martinez-Ortiz, Morane Gruenpeter",,1
+Yes,FAIR,Policy alignment,Incentives,role of funders to enforce FAIR data,FAIR for Virtual Research Environments WG,WG,"Technical infrastructure, analysis, storage and preservation ",na,na,https://www.rd-alliance.org/groups/fair-virtual-research-environments-wg,,"Kerry Levett, Sandra Gesing, Kheeran Dharmawardena, Leyla Garcia",,1
+Yes,FAIR,Policy alignment,Incentives,role of funders to enforce FAIR data,FAIR Principles for Research Hardware,IG,Non-digital (samples and hardware),na,Open Hardware,https://www.rd-alliance.org/groups/fair-principles-research-hardware,,"Nadica Miljkovi?, Julien Colomb",fair4rh@rda-groups.org,1
+Yes,FAIR,Policy alignment,Incentives,role of funders to enforce FAIR data,GO FAIR Liaison IG,IG,"Policy, legal, global infrastructure ",na,"Policy, legal, compliance, capacity",https://www.rd-alliance.org/groups/go-fair-liaison-ig,,"Luiz Olavo Bonino da Silva Santos, Erik Schultes",gofair@rda-groups.org,1
+Yes,FAIR,Policy alignment,Incentives,role of funders to enforce FAIR data,Raising FAIRness in health data and health research performing organisations (HRPOs) WG,WG,Health research ,na,na,https://www.rd-alliance.org/groups/raising-fairness-health-data-and-health-research-performing-organisations-hrpos-wg,,"Shanmugasundaram Venkataraman, Celia Alvarez-Romero, Kristan Kang, Anupama Gururaj",,1
+Yes,FAIR,Implementation,Costs,Scalable FAIR,CURE-FAIR WG,WG,FAIR data ,Data management,FAIR data ,https://www.rd-alliance.org/groups/cure-fair-wg,"10 Things for Curating Reproducible and FAIR Research
+
+Challenges of Curating for Reproducible and FAIR Research Output 
+https://www.rd-alliance.org/group/cure-fair-wg/outcomes/challenges-curating-reproducible-and-fair-research-output ","Limor Peer, Florio Arguillas, Thu-Mai Christian, Tom Honeyman, Mandy Gooch",,1
+Yes,FAIR,Implementation,Costs,Scalable FAIR,FAIR Data Maturity Model WG,WG,FAIR data,"Data management, 
+Dissemination, Linking and Findability",FAIR data ,https://www.rd-alliance.org/groups/fair-data-maturity-model-wg,"FAIR Data Maturity Model: specification and guidelines
+https://www.rd-alliance.org/group/fair-data-maturity-model-wg/outcomes/fair-data-maturity-model-specification-and-guidelines-0
+
+Member survey on bridging the gap between funders and communities – perspectives on benefits and challenges of FAIR assessments V2.0
+https://www.rd-alliance.org/group/fair-data-maturity-model-wg/outcomes/member-survey-bridging-gap-between-funders-and 
+
+Results of an Analysis of Existing FAIR Assessment Tools
+https://www.rd-alliance.org/group/fair-data-maturity-model-wg/outcomes/results-analysis-existing-fair-assessment-tools ","Edit Herczog, Keith Russell, Shelley Stall",,1
+Yes,FAIR,Implementation,Costs,Scalable FAIR,FAIR Digital Object Fabric IG,IG,FAIR data ,na,Data management planning,https://www.rd-alliance.org/group/FAIR-digital-object-fabric-ig.html,"Summary of Virtual Layer Recommendations
+https://www.rd-alliance.org/group/fair-digital-object-fabric-ig/outcomes/summary-virtual-layer-recommendations 
+
+Persistent identifiers: Consolidated assertions
+https://www.rd-alliance.org/group/fair-digital-object-fabric-ig/outcomes/persistent-identifiers-consolidated-assertions ","Xin Chen, Rainer Stotzka, Robert Quick, Maggie Hellström",rda-fair-do-fabric-ig@rda-groups.org,1
+Yes,FAIR,Implementation,Costs,Scalable FAIR,FAIR for Research Software (FAIR4RS) WG,WG,FAIR software,"Data management
+Policy, Legal Compliance, and Capacity 
+Computational infrastructures",FAIR software ,https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg,"FAIR Principles for Research Software (FAIR4RS Principles)
+https://www.rd-alliance.org/group/fair-research-software-fair4rs-wg/outcomes/fair-principles-research-software-fair4rs-0 ","Michelle Barker, Paula Andrea Martinez, Leyla Garcia, Daniel S. Katz, Neil Chue Hong, Jennifer Harrow, Fotis Psomopoulos, Carlos Martinez-Ortiz, Morane Gruenpeter",,1
+Yes,FAIR,Implementation,Costs,Scalable FAIR,FAIR for Virtual Research Environments WG,WG,"Technical infrastructure, analysis, storage and preservation ",na,na,https://www.rd-alliance.org/groups/fair-virtual-research-environments-wg,,"Kerry Levett, Sandra Gesing, Kheeran Dharmawardena, Leyla Garcia",,1
+Yes,FAIR,Implementation,Costs,Scalable FAIR,FAIR Principles for Research Hardware,IG,Non-digital (samples and hardware),na,Open Hardware,https://www.rd-alliance.org/groups/fair-principles-research-hardware,,"Nadica Miljkovi?, Julien Colomb",fair4rh@rda-groups.org,1
+Yes,FAIR,Implementation,Costs,Scalable FAIR,GO FAIR Liaison IG,IG,"Policy, legal, global infrastructure ",na,"Policy, legal, compliance, capacity",https://www.rd-alliance.org/groups/go-fair-liaison-ig,,"Luiz Olavo Bonino da Silva Santos, Erik Schultes",gofair@rda-groups.org,1
+Yes,FAIR,Implementation,Costs,Scalable FAIR,Raising FAIRness in health data and health research performing organisations (HRPOs) WG,WG,Health research ,na,na,https://www.rd-alliance.org/groups/raising-fairness-health-data-and-health-research-performing-organisations-hrpos-wg,,"Shanmugasundaram Venkataraman, Celia Alvarez-Romero, Kristan Kang, Anupama Gururaj",,1
+Yes,Data lifecycle,Implementation,Business models,"Sustainability models, including lifecycle and maturity models",Libraries for Research Data IG,IG,RDM support and education ,Data management ,RDM support ,https://www.rd-alliance.org/groups/libraries-research-data.html,"23 Things: Libraries for Research Data (Supporting Output)
+https://www.rd-alliance.org/group/libraries-research-data-ig/outcomes/23-things-libraries-research-data-supporting-output 
+
+Engaging Researchers with Data Management: The Cookbook
+https://www.rd-alliance.org/group/libraries-research-data-ig/outcomes/engaging-researchers-data-management-cookbook 
+
+Top 10 FAIR Data & Software Things
+https://www.rd-alliance.org/group/libraries-research-data-ig/outcomes/top-10-fair-data-software-things","Birgit Schmidt, Andrea Ogier, Christopher Erdmann, Naresh Kumar, Su Nee Goh, Stanislaus Agava",rda-libresearchdata@rda-groups.org,1
+Yes,Data lifecycle,Implementation,Business models,"Sustainability models, including lifecycle and maturity models",Research Data Management in Engineering IG,IG,Disciplinary: Materials science and engineering,na,Discipline-specific ,https://www.rd-alliance.org/groups/research-data-management-engineering-ig,,"Daniela Hausen, Gretchen Greene, Kevin Logan",rdmeng@rda-groups.org,1
+Yes,Data lifecycle,Implementation,Business models,sustainability of research data infrastructure,Data Repository Attributes WG,WG,"Technical infrastructure, analysis, storage and preservation ",na,na,https://www.rd-alliance.org/groups/data-repository-attributes-wg,,"Michael Witt, Kathleen Shearer, Allyson Lister, Matthew Cannon, Washington Luís Ribeiro de Segundo, Kazu Yamaji",,1
+Yes,Data lifecycle,Implementation,Business models,sustainability of research data infrastructure,Domain Repositories IG,IG,"Technical infrastructure, analysis, storage and preservation ",Computational infrastructures,Data storage and preservation ,https://www.rd-alliance.org/groups/domain-repositories-ig.html,,"Kerstin Lehnert, Peter Doorn",domain-repositories-ig@rda-groups.org,1
+Yes,FAIR,Policy alignment,impact,"The impact of data, make them fair",CURE-FAIR WG,WG,FAIR data ,Data management,FAIR data ,https://www.rd-alliance.org/groups/cure-fair-wg,"10 Things for Curating Reproducible and FAIR Research
+
+Challenges of Curating for Reproducible and FAIR Research Output 
+https://www.rd-alliance.org/group/cure-fair-wg/outcomes/challenges-curating-reproducible-and-fair-research-output ","Limor Peer, Florio Arguillas, Thu-Mai Christian, Tom Honeyman, Mandy Gooch",,1
+Yes,FAIR,Policy alignment,impact,"The impact of data, make them fair",FAIR Data Maturity Model WG,WG,FAIR data,"Data management, 
+Dissemination, Linking and Findability",FAIR data ,https://www.rd-alliance.org/groups/fair-data-maturity-model-wg,"FAIR Data Maturity Model: specification and guidelines
+https://www.rd-alliance.org/group/fair-data-maturity-model-wg/outcomes/fair-data-maturity-model-specification-and-guidelines-0
+
+Member survey on bridging the gap between funders and communities – perspectives on benefits and challenges of FAIR assessments V2.0
+https://www.rd-alliance.org/group/fair-data-maturity-model-wg/outcomes/member-survey-bridging-gap-between-funders-and 
+
+Results of an Analysis of Existing FAIR Assessment Tools
+https://www.rd-alliance.org/group/fair-data-maturity-model-wg/outcomes/results-analysis-existing-fair-assessment-tools ","Edit Herczog, Keith Russell, Shelley Stall",,1
+Yes,FAIR,Policy alignment,impact,"The impact of data, make them fair",FAIR Digital Object Fabric IG,IG,FAIR data ,na,Data management planning,https://www.rd-alliance.org/group/FAIR-digital-object-fabric-ig.html,"Summary of Virtual Layer Recommendations
+https://www.rd-alliance.org/group/fair-digital-object-fabric-ig/outcomes/summary-virtual-layer-recommendations 
+
+Persistent identifiers: Consolidated assertions
+https://www.rd-alliance.org/group/fair-digital-object-fabric-ig/outcomes/persistent-identifiers-consolidated-assertions ","Xin Chen, Rainer Stotzka, Robert Quick, Maggie Hellström",rda-fair-do-fabric-ig@rda-groups.org,1
+Yes,FAIR,Policy alignment,impact,"The impact of data, make them fair",FAIR for Research Software (FAIR4RS) WG,WG,FAIR software,"Data management
+Policy, Legal Compliance, and Capacity 
+Computational infrastructures",FAIR software ,https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg,"FAIR Principles for Research Software (FAIR4RS Principles)
+https://www.rd-alliance.org/group/fair-research-software-fair4rs-wg/outcomes/fair-principles-research-software-fair4rs-0 ","Michelle Barker, Paula Andrea Martinez, Leyla Garcia, Daniel S. Katz, Neil Chue Hong, Jennifer Harrow, Fotis Psomopoulos, Carlos Martinez-Ortiz, Morane Gruenpeter",,1
+Yes,FAIR,Policy alignment,impact,"The impact of data, make them fair",FAIR for Virtual Research Environments WG,WG,"Technical infrastructure, analysis, storage and preservation ",na,na,https://www.rd-alliance.org/groups/fair-virtual-research-environments-wg,,"Kerry Levett, Sandra Gesing, Kheeran Dharmawardena, Leyla Garcia",,1
+Yes,FAIR,Policy alignment,impact,"The impact of data, make them fair",FAIR Principles for Research Hardware,IG,Non-digital (samples and hardware),na,Open Hardware,https://www.rd-alliance.org/groups/fair-principles-research-hardware,,"Nadica Miljkovi?, Julien Colomb",fair4rh@rda-groups.org,1
+Yes,FAIR,Policy alignment,impact,"The impact of data, make them fair",GO FAIR Liaison IG,IG,"Policy, legal, global infrastructure ",na,"Policy, legal, compliance, capacity",https://www.rd-alliance.org/groups/go-fair-liaison-ig,,"Luiz Olavo Bonino da Silva Santos, Erik Schultes",gofair@rda-groups.org,1
+Yes,FAIR,Policy alignment,impact,"The impact of data, make them fair",Raising FAIRness in health data and health research performing organisations (HRPOs) WG,WG,Health research ,na,na,https://www.rd-alliance.org/groups/raising-fairness-health-data-and-health-research-performing-organisations-hrpos-wg,,"Shanmugasundaram Venkataraman, Celia Alvarez-Romero, Kristan Kang, Anupama Gururaj",,1
+Yes,Open Science / Open Research Commons,Policy alignment,Collaboration,Transitions,Data policy standardisation and implementation IG,IG,"Policy, legal, global infrastructure ","Policy, legal, compliance, capacity","Policy, legal, compliance, capacity",https://www.rd-alliance.org/groups/data-policy-standardisation-and-implementation-ig,,"Iain Hrynaszkiewicz, Natasha Simons, Simon Goudie, Azhar Hussain, Rebecca Grant",rda-data-policy-standardisation-ig@rda-groups.org,1
+No,Open Science / Open Research Commons,Policy alignment,Industry,Industrial Participation,Small Unmanned Aircraft Systems’ Data IG,IG,na,na,Discipline-specific ,https://www.rd-alliance.org/groups/small-unmanned-aircraft-systems%E2%80%99-data-ig,,"Jane Wyngaard, Lindsay Barbieri, Dimane Mpoeleng",dronedata@rda-groups.org,1
+No,Data lifecycle,Implementation,Collaboration,Fostering a broader community of practitioners,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+No,Data lifecycle,Implementation,Costs,data for philanthropy / what data funders might contribute,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+No,Data lifecycle,Policy alignment,Sustainability,Environmental Sustainability of data,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+No,Data lifecycle,Policy alignment,Sustainability,funder alignment on issues related to research data,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+No,Open Access,Implementation,Collaboration,Approaches to AHSS data and OA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+No,Open Access,Policy alignment,Incentives,Diamond Open Access,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+No,Open Access,Policy alignment,Incentives,Open Access,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+No,Open Access,Policy alignment,Incentives,open access mandates,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+No,Open Science / Open Research Commons,Implementation,Business models,Sustainable business models for RDA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+No,Open Science / Open Research Commons,Implementation,impact,Open Science Monitoring,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+No,Open Science / Open Research Commons,Implementation,Sustainability,increasing diversity of funding avenues,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+No,Open Science / Open Research Commons,Policy alignment,alignment,"Principles to Implementations, like TRUST principles to certifications",NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+No,Open Science / Open Research Commons,Policy alignment,Collaboration,Joint funding of projects on open science,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+No,Open Science / Open Research Commons,Policy alignment,Collaboration,Links between Science Data and Government Data initiatives,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+No,Open Science / Open Research Commons,Policy alignment,Collaboration,Opportunities for collaborative funding at a global scale,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+No,Open Science / Open Research Commons,Policy alignment,Collaboration,Opportunities for joint calls,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+No,Open Science / Open Research Commons,Policy alignment,Collaboration,policy compatibility among funding agencies,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+No,Open Science / Open Research Commons,Policy alignment,Costs,"Funding allocation for OS at a national level - who, how, priorities",NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+No,Open Science / Open Research Commons,Policy alignment,impact,"Trends in research funding (e.g. use of Monte Carlo decision tools, etc.)",NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+No,Open Science / Open Research Commons,Policy alignment,Sustainability,Sharing of agency practices to identify where joined up efforts can support the research community,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+No,RDA,Economics,Sustainability,financial sustainability of RDA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
