@@ -33,20 +33,7 @@ book_tf_idf1 <- book_tf_idf %>%
   select(-total) %>%
   arrange(desc(tf_idf))
 
-
-to.delete.words <- book_tf_idf1 %>% filter(tf_idf < 0.001, n > 4) %>% select(-tf, -idf)
-view(to.delete.words)
-
-to.delete.words <- to.delete.words %>% select(Text) %>% unique()
-
-to.delete.words.string <- to.delete.words %>%
-  mutate(string.length = str_length(to.delete.words$Text)) %>% 
-  filter(string.length < 6) # select words with less than 6 letters
-view(to.delete.words.string )
-
-to.delete.words.string <- to.delete.words.string %>% filter(Text != "tools")
-
-
+book_tf_idf1 <- book_tf_idf1 %>% filter(tf_idf > 0.001) %>% select(-tf, -idf)
 
 book_tf_idf2 <- book_tf_idf1 %>% arrange(Group, tf_idf) %>%
   group_by(Group) %>% top_n(10)
