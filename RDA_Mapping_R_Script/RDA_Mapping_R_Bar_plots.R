@@ -3,8 +3,8 @@ library(grid)
 library(shadowtext)
 # load data ---------------------------------------------------------------------
 
-setwd("C:/Users/fsdha/OneDrive - 11593765 Canada Association/Fares Drive/Works in progress/RDA/RDA Mapping/RDA_mapping/RDA_Mapping_R_analysis/RDA_Mapping_R_Data/RDA_Mapping_R_Data_input")
-groups.path <- "C:/Users/fsdha/OneDrive - 11593765 Canada Association/Fares Drive/Works in progress/RDA/RDA Mapping/RDA_mapping/RDA_Mapping_R_analysis/RDA_Mapping_R_Data/RDA_Mapping_R_Data_input"
+setwd("D:/Documents/LDP/Productivity and Reproducibility/Git/RDA_FF_mapping/RDA_Mapping_R_Data/RDA_Mapping_R_Data_input")
+groups.path <- "D:/Documents/LDP/Productivity and Reproducibility/Git/RDA_FF_mapping/RDA_Mapping_R_Data/RDA_Mapping_R_Data_input"
 
 list <- list.files(path = groups.path)
 list
