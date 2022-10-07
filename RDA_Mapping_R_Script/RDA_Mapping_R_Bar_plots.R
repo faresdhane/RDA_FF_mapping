@@ -3,8 +3,8 @@ library(grid)
 library(shadowtext)
 # load data ---------------------------------------------------------------------
 
-setwd("D:/Documents/LDP/Productivity and Reproducibility/Git/RDA_FF_mapping/RDA_Mapping_R_Data/RDA_Mapping_R_Data_input")
-groups.path <- "D:/Documents/LDP/Productivity and Reproducibility/Git/RDA_FF_mapping/RDA_Mapping_R_Data/RDA_Mapping_R_Data_input"
+setwd("C:/Users/fsdha/OneDrive - 11593765 Canada Association/Fares Drive/Works in progress/RDA/RDA Mapping/RDA_FF_mapping/RDA_Mapping_R_Data/RDA_Mapping_R_Data_input")
+groups.path <- "C:/Users/fsdha/OneDrive - 11593765 Canada Association/Fares Drive/Works in progress/RDA/RDA Mapping/RDA_FF_mapping/RDA_Mapping_R_Data/RDA_Mapping_R_Data_input"
 
 list <- list.files(path = groups.path)
 list
@@ -144,7 +144,7 @@ grid.rect(
 # We have two captions, so we use grid.text instead of 
 # the caption provided by  ggplot2.
 grid.text(
-  "Notes: keyword groups in red have 0 matching groups", 
+  "Notes: Keywords in red do not match any RDA group", 
   x = 0.01, 
   y = 0.005, 
   just = c("left", "bottom"),
