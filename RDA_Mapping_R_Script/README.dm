@@ -1,6 +1,6 @@
 ## This folder contains the scripts needed for the analysis.
 
-To reproduce this work,  start by running the 'RDA_Mapping_R_text_groups_analysis'.
+To reproduce this work,  start by run 'RDA_Mapping_R_text_groups_analysis'.
 RDA_Mapping_R_text_groups_analysis: to do a text analysis and create the data that will be used to produce the graphs
 
 Second, run the script 'RDA_Mapping_R_Graphs_circles'
